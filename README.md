@@ -10,9 +10,13 @@
 
 built by [http://paulpierre.com](http://paulpierre.com) in 2014
 
-App Rewarder is an app that rewards users with cash-prizes like giftcards and bitcoins in return for test-driving apps. It is an incent rewards app for Android and iOS and is the project I am most proud of. 
+App Rewarder is an app that rewards users with cash-prizes like giftcards and bitcoins in return for test-driving apps. It is an incent rewards app for Android and iOS and is the project I am most proud of.
 
-I design and developed the project end-to-end myself with a server engineer and a marketing partners. In 3 months after launch the app generated over $700k in revenue and hundreds of thousands of users. 
+![App Rewarder](http://paulpierre.com/img/apprewarder_3.jpg) 
+
+I designed and developed the project end-to-end myself with a server engineer and a marketing partners. In 3 months after launch the app generated over $700k in revenue and hundreds of thousands of users. 
+
+Product website can be found here [http://paulpierre.com/sites/www.apprewarder.com/](http://paulpierre.com/sites/www.apprewarder.com/). Apps and servers no longer maintained.
 
 
 

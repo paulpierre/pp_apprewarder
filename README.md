@@ -14,6 +14,9 @@ App Rewarder is an app that rewards users with cash-prizes like giftcards and bi
 
 ![App Rewarder](http://paulpierre.com/img/apprewarder_3.jpg) 
 
+![Built with](https://i.imgur.com/efu8oAD.png) 
+
+
 I designed and developed the project end-to-end myself with a server engineer and a marketing partners. In 3 months after launch the app generated over $700k in revenue and hundreds of thousands of users. 
 
 Product website can be found here [http://paulpierre.com/sites/www.apprewarder.com/](http://paulpierre.com/sites/www.apprewarder.com/). Apps and servers no longer maintained.

@@ -1,0 +1,1900 @@
+Tue, 17 Jun 14 02:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1402972201" WHERE offer_tcreate <= 1402713001 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 02:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1402973101" WHERE offer_tcreate <= 1402713901 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 03:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1402974001" WHERE offer_tcreate <= 1402714801 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 03:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1402974901" WHERE offer_tcreate <= 1402715701 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 03:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1402975801" WHERE offer_tcreate <= 1402716601 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 03:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1402976701" WHERE offer_tcreate <= 1402717501 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 04:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1402977601" WHERE offer_tcreate <= 1402718401 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 04:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1402978501" WHERE offer_tcreate <= 1402719301 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 04:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1402979401" WHERE offer_tcreate <= 1402720201 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 04:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1402980301" WHERE offer_tcreate <= 1402721101 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 05:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1402981201" WHERE offer_tcreate <= 1402722001 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 05:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1402982101" WHERE offer_tcreate <= 1402722901 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 05:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1402983001" WHERE offer_tcreate <= 1402723801 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 05:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1402983901" WHERE offer_tcreate <= 1402724701 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 06:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1402984801" WHERE offer_tcreate <= 1402725601 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 06:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1402985701" WHERE offer_tcreate <= 1402726501 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 06:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1402986601" WHERE offer_tcreate <= 1402727401 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 06:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1402987501" WHERE offer_tcreate <= 1402728301 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 07:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1402988401" WHERE offer_tcreate <= 1402729201 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 07:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1402989301" WHERE offer_tcreate <= 1402730101 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 07:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1402990201" WHERE offer_tcreate <= 1402731001 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 07:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1402991101" WHERE offer_tcreate <= 1402731901 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 08:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1402992001" WHERE offer_tcreate <= 1402732801 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 08:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1402992901" WHERE offer_tcreate <= 1402733701 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 08:30:02 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1402993802" WHERE offer_tcreate <= 1402734602 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 08:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1402994701" WHERE offer_tcreate <= 1402735501 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 09:00:03 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1402995601" WHERE offer_tcreate <= 1402736401 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 09:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1402996501" WHERE offer_tcreate <= 1402737301 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 09:30:03 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1402997401" WHERE offer_tcreate <= 1402738201 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 09:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1402998301" WHERE offer_tcreate <= 1402739101 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 10:00:02 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1402999202" WHERE offer_tcreate <= 1402740002 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 10:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403000101" WHERE offer_tcreate <= 1402740901 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 10:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403001001" WHERE offer_tcreate <= 1402741801 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 10:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403001901" WHERE offer_tcreate <= 1402742701 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 11:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403002801" WHERE offer_tcreate <= 1402743601 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 11:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403003701" WHERE offer_tcreate <= 1402744501 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 11:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403004601" WHERE offer_tcreate <= 1402745401 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 11:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403005501" WHERE offer_tcreate <= 1402746301 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 12:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403006401" WHERE offer_tcreate <= 1402747201 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 12:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403007301" WHERE offer_tcreate <= 1402748101 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 12:30:03 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403008201" WHERE offer_tcreate <= 1402749001 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 12:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403009101" WHERE offer_tcreate <= 1402749901 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 13:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403010001" WHERE offer_tcreate <= 1402750801 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 13:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403010901" WHERE offer_tcreate <= 1402751701 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 13:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403011801" WHERE offer_tcreate <= 1402752601 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 13:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403012701" WHERE offer_tcreate <= 1402753501 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 14:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403013601" WHERE offer_tcreate <= 1402754401 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 14:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403014501" WHERE offer_tcreate <= 1402755301 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 14:30:02 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403015401" WHERE offer_tcreate <= 1402756201 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 14:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403016301" WHERE offer_tcreate <= 1402757101 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 15:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403017201" WHERE offer_tcreate <= 1402758001 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 15:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403018101" WHERE offer_tcreate <= 1402758901 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 15:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403019001" WHERE offer_tcreate <= 1402759801 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 15:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403019901" WHERE offer_tcreate <= 1402760701 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 16:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403020801" WHERE offer_tcreate <= 1402761601 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 16:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403021701" WHERE offer_tcreate <= 1402762501 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 16:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403022601" WHERE offer_tcreate <= 1402763401 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 16:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403023501" WHERE offer_tcreate <= 1402764301 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 17:00:02 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403024402" WHERE offer_tcreate <= 1402765202 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 17:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403025301" WHERE offer_tcreate <= 1402766101 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 17:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403026201" WHERE offer_tcreate <= 1402767001 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 17:45:02 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403027102" WHERE offer_tcreate <= 1402767902 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 18:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403028001" WHERE offer_tcreate <= 1402768801 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 18:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403028901" WHERE offer_tcreate <= 1402769701 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 18:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403029801" WHERE offer_tcreate <= 1402770601 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 18:45:02 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403030701" WHERE offer_tcreate <= 1402771501 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 19:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403031601" WHERE offer_tcreate <= 1402772401 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 19:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403032501" WHERE offer_tcreate <= 1402773301 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 19:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403033401" WHERE offer_tcreate <= 1402774201 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 19:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403034301" WHERE offer_tcreate <= 1402775101 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 20:00:02 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403035201" WHERE offer_tcreate <= 1402776001 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 20:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403036101" WHERE offer_tcreate <= 1402776901 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 20:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403037001" WHERE offer_tcreate <= 1402777801 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 20:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403037901" WHERE offer_tcreate <= 1402778701 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 21:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403038801" WHERE offer_tcreate <= 1402779601 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 21:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403039701" WHERE offer_tcreate <= 1402780501 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 21:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403040601" WHERE offer_tcreate <= 1402781401 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 21:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403041501" WHERE offer_tcreate <= 1402782301 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 22:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403042401" WHERE offer_tcreate <= 1402783201 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 22:15:02 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403043302" WHERE offer_tcreate <= 1402784102 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 22:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403044201" WHERE offer_tcreate <= 1402785001 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 22:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403045101" WHERE offer_tcreate <= 1402785901 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 23:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403046001" WHERE offer_tcreate <= 1402786801 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 23:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403046901" WHERE offer_tcreate <= 1402787701 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 23:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403047801" WHERE offer_tcreate <= 1402788601 AND offer_status=0nResult:Array
+(
+)
+
+
+Tue, 17 Jun 14 23:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403048701" WHERE offer_tcreate <= 1402789501 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 00:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403049601" WHERE offer_tcreate <= 1402790401 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 00:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403050501" WHERE offer_tcreate <= 1402791301 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 00:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403051401" WHERE offer_tcreate <= 1402792201 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 00:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403052301" WHERE offer_tcreate <= 1402793101 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 01:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403053201" WHERE offer_tcreate <= 1402794001 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 01:15:03 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403054101" WHERE offer_tcreate <= 1402794901 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 01:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403055001" WHERE offer_tcreate <= 1402795801 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 01:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403055901" WHERE offer_tcreate <= 1402796701 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 02:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403056801" WHERE offer_tcreate <= 1402797601 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 02:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403057701" WHERE offer_tcreate <= 1402798501 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 02:30:02 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403058602" WHERE offer_tcreate <= 1402799402 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 02:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403059501" WHERE offer_tcreate <= 1402800301 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 03:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403060401" WHERE offer_tcreate <= 1402801201 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 03:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403061301" WHERE offer_tcreate <= 1402802101 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 03:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403062201" WHERE offer_tcreate <= 1402803001 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 03:45:02 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403063102" WHERE offer_tcreate <= 1402803902 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 04:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403064001" WHERE offer_tcreate <= 1402804801 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 04:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403064901" WHERE offer_tcreate <= 1402805701 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 04:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403065801" WHERE offer_tcreate <= 1402806601 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 04:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403066701" WHERE offer_tcreate <= 1402807501 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 05:00:02 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403067602" WHERE offer_tcreate <= 1402808402 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 05:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403068501" WHERE offer_tcreate <= 1402809301 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 05:30:02 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403069402" WHERE offer_tcreate <= 1402810202 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 05:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403070301" WHERE offer_tcreate <= 1402811101 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 06:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403071201" WHERE offer_tcreate <= 1402812001 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 06:15:02 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403072102" WHERE offer_tcreate <= 1402812902 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 06:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403073001" WHERE offer_tcreate <= 1402813801 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 06:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403073901" WHERE offer_tcreate <= 1402814701 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 07:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403074801" WHERE offer_tcreate <= 1402815601 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 07:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403075701" WHERE offer_tcreate <= 1402816501 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 07:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403076601" WHERE offer_tcreate <= 1402817401 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 07:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403077501" WHERE offer_tcreate <= 1402818301 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 08:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403078401" WHERE offer_tcreate <= 1402819201 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 08:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403079301" WHERE offer_tcreate <= 1402820101 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 08:30:02 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403080202" WHERE offer_tcreate <= 1402821002 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 08:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403081101" WHERE offer_tcreate <= 1402821901 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 09:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403082001" WHERE offer_tcreate <= 1402822801 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 09:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403082901" WHERE offer_tcreate <= 1402823701 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 09:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403083801" WHERE offer_tcreate <= 1402824601 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 09:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403084701" WHERE offer_tcreate <= 1402825501 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 10:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403085601" WHERE offer_tcreate <= 1402826401 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 10:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403086501" WHERE offer_tcreate <= 1402827301 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 10:30:02 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403087401" WHERE offer_tcreate <= 1402828201 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 10:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403088301" WHERE offer_tcreate <= 1402829101 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 11:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403089201" WHERE offer_tcreate <= 1402830001 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 11:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403090101" WHERE offer_tcreate <= 1402830901 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 11:30:02 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403091002" WHERE offer_tcreate <= 1402831802 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 11:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403091901" WHERE offer_tcreate <= 1402832701 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 12:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403092801" WHERE offer_tcreate <= 1402833601 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 12:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403093701" WHERE offer_tcreate <= 1402834501 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 12:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403094601" WHERE offer_tcreate <= 1402835401 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 12:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403095501" WHERE offer_tcreate <= 1402836301 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 13:00:02 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403096402" WHERE offer_tcreate <= 1402837202 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 13:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403097301" WHERE offer_tcreate <= 1402838101 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 13:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403098201" WHERE offer_tcreate <= 1402839001 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 13:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403099101" WHERE offer_tcreate <= 1402839901 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 14:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403100001" WHERE offer_tcreate <= 1402840801 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 14:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403100901" WHERE offer_tcreate <= 1402841701 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 14:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403101801" WHERE offer_tcreate <= 1402842601 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 14:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403102701" WHERE offer_tcreate <= 1402843501 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 15:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403103601" WHERE offer_tcreate <= 1402844401 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 15:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403104501" WHERE offer_tcreate <= 1402845301 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 15:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403105401" WHERE offer_tcreate <= 1402846201 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 15:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403106301" WHERE offer_tcreate <= 1402847101 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 16:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403107201" WHERE offer_tcreate <= 1402848001 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 16:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403108101" WHERE offer_tcreate <= 1402848901 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 16:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403109001" WHERE offer_tcreate <= 1402849801 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 16:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403109901" WHERE offer_tcreate <= 1402850701 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 17:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403110801" WHERE offer_tcreate <= 1402851601 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 17:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403111701" WHERE offer_tcreate <= 1402852501 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 17:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403112601" WHERE offer_tcreate <= 1402853401 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 17:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403113501" WHERE offer_tcreate <= 1402854301 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 18:00:03 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403114401" WHERE offer_tcreate <= 1402855201 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 18:15:02 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403115301" WHERE offer_tcreate <= 1402856101 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 18:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403116201" WHERE offer_tcreate <= 1402857001 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 18:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403117101" WHERE offer_tcreate <= 1402857901 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 19:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403118001" WHERE offer_tcreate <= 1402858801 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 19:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403118901" WHERE offer_tcreate <= 1402859701 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 19:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403119801" WHERE offer_tcreate <= 1402860601 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 19:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403120701" WHERE offer_tcreate <= 1402861501 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 20:00:02 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403121602" WHERE offer_tcreate <= 1402862402 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 20:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403122501" WHERE offer_tcreate <= 1402863301 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 20:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403123401" WHERE offer_tcreate <= 1402864201 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 20:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403124301" WHERE offer_tcreate <= 1402865101 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 21:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403125201" WHERE offer_tcreate <= 1402866001 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 21:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403126101" WHERE offer_tcreate <= 1402866901 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 21:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403127001" WHERE offer_tcreate <= 1402867801 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 21:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403127901" WHERE offer_tcreate <= 1402868701 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 22:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403128801" WHERE offer_tcreate <= 1402869601 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 22:15:02 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403129701" WHERE offer_tcreate <= 1402870501 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 22:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403130601" WHERE offer_tcreate <= 1402871401 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 22:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403131501" WHERE offer_tcreate <= 1402872301 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 23:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403132401" WHERE offer_tcreate <= 1402873201 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 23:15:02 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403133302" WHERE offer_tcreate <= 1402874102 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 23:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403134201" WHERE offer_tcreate <= 1402875001 AND offer_status=0nResult:Array
+(
+)
+
+
+Wed, 18 Jun 14 23:45:03 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403135101" WHERE offer_tcreate <= 1402875901 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 00:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403136001" WHERE offer_tcreate <= 1402876801 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 00:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403136901" WHERE offer_tcreate <= 1402877701 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 00:30:02 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403137802" WHERE offer_tcreate <= 1402878602 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 00:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403138701" WHERE offer_tcreate <= 1402879501 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 01:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403139601" WHERE offer_tcreate <= 1402880401 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 01:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403140501" WHERE offer_tcreate <= 1402881301 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 01:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403141401" WHERE offer_tcreate <= 1402882201 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 01:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403142301" WHERE offer_tcreate <= 1402883101 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 02:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403143201" WHERE offer_tcreate <= 1402884001 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 02:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403144101" WHERE offer_tcreate <= 1402884901 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 02:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403145001" WHERE offer_tcreate <= 1402885801 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 02:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403145901" WHERE offer_tcreate <= 1402886701 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 03:00:02 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403146801" WHERE offer_tcreate <= 1402887601 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 03:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403147701" WHERE offer_tcreate <= 1402888501 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 03:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403148601" WHERE offer_tcreate <= 1402889401 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 03:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403149501" WHERE offer_tcreate <= 1402890301 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 04:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403150401" WHERE offer_tcreate <= 1402891201 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 04:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403151301" WHERE offer_tcreate <= 1402892101 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 04:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403152201" WHERE offer_tcreate <= 1402893001 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 04:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403153101" WHERE offer_tcreate <= 1402893901 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 05:00:02 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403154002" WHERE offer_tcreate <= 1402894802 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 05:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403154901" WHERE offer_tcreate <= 1402895701 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 05:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403155801" WHERE offer_tcreate <= 1402896601 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 05:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403156701" WHERE offer_tcreate <= 1402897501 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 06:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403157601" WHERE offer_tcreate <= 1402898401 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 06:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403158501" WHERE offer_tcreate <= 1402899301 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 06:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403159401" WHERE offer_tcreate <= 1402900201 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 06:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403160301" WHERE offer_tcreate <= 1402901101 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 07:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403161201" WHERE offer_tcreate <= 1402902001 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 07:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403162101" WHERE offer_tcreate <= 1402902901 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 07:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403163001" WHERE offer_tcreate <= 1402903801 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 07:45:02 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403163902" WHERE offer_tcreate <= 1402904702 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 08:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403164801" WHERE offer_tcreate <= 1402905601 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 08:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403165701" WHERE offer_tcreate <= 1402906501 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 08:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403166601" WHERE offer_tcreate <= 1402907401 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 08:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403167501" WHERE offer_tcreate <= 1402908301 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 09:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403168401" WHERE offer_tcreate <= 1402909201 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 09:15:02 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403169302" WHERE offer_tcreate <= 1402910102 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 09:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403170201" WHERE offer_tcreate <= 1402911001 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 09:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403171101" WHERE offer_tcreate <= 1402911901 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 10:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403172001" WHERE offer_tcreate <= 1402912801 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 10:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403172901" WHERE offer_tcreate <= 1402913701 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 10:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403173801" WHERE offer_tcreate <= 1402914601 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 10:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403174701" WHERE offer_tcreate <= 1402915501 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 11:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403175601" WHERE offer_tcreate <= 1402916401 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 11:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403176501" WHERE offer_tcreate <= 1402917301 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 11:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403177401" WHERE offer_tcreate <= 1402918201 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 11:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403178301" WHERE offer_tcreate <= 1402919101 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 12:00:02 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403179202" WHERE offer_tcreate <= 1402920002 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 12:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403180101" WHERE offer_tcreate <= 1402920901 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 12:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403181001" WHERE offer_tcreate <= 1402921801 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 12:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403181901" WHERE offer_tcreate <= 1402922701 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 13:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403182801" WHERE offer_tcreate <= 1402923601 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 13:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403183701" WHERE offer_tcreate <= 1402924501 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 13:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403184601" WHERE offer_tcreate <= 1402925401 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 13:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403185501" WHERE offer_tcreate <= 1402926301 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 14:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403186401" WHERE offer_tcreate <= 1402927201 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 14:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403187301" WHERE offer_tcreate <= 1402928101 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 14:30:02 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403188202" WHERE offer_tcreate <= 1402929002 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 14:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403189101" WHERE offer_tcreate <= 1402929901 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 15:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403190001" WHERE offer_tcreate <= 1402930801 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 15:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403190901" WHERE offer_tcreate <= 1402931701 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 15:30:02 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403191802" WHERE offer_tcreate <= 1402932602 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 15:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403192701" WHERE offer_tcreate <= 1402933501 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 16:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403193601" WHERE offer_tcreate <= 1402934401 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 16:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403194501" WHERE offer_tcreate <= 1402935301 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 16:30:02 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403195401" WHERE offer_tcreate <= 1402936201 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 16:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403196301" WHERE offer_tcreate <= 1402937101 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 17:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403197201" WHERE offer_tcreate <= 1402938001 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 17:15:02 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403198101" WHERE offer_tcreate <= 1402938901 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 17:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403199001" WHERE offer_tcreate <= 1402939801 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 17:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403199901" WHERE offer_tcreate <= 1402940701 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 18:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403200801" WHERE offer_tcreate <= 1402941601 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 18:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403201701" WHERE offer_tcreate <= 1402942501 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 18:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403202601" WHERE offer_tcreate <= 1402943401 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 18:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403203501" WHERE offer_tcreate <= 1402944301 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 19:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403204401" WHERE offer_tcreate <= 1402945201 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 19:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403205301" WHERE offer_tcreate <= 1402946101 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 19:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403206201" WHERE offer_tcreate <= 1402947001 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 19:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403207101" WHERE offer_tcreate <= 1402947901 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 20:00:03 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403208001" WHERE offer_tcreate <= 1402948801 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 20:15:04 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403208902" WHERE offer_tcreate <= 1402949702 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 20:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403209801" WHERE offer_tcreate <= 1402950601 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 20:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403210701" WHERE offer_tcreate <= 1402951501 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 21:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403211601" WHERE offer_tcreate <= 1402952401 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 21:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403212501" WHERE offer_tcreate <= 1402953301 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 21:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403213401" WHERE offer_tcreate <= 1402954201 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 21:45:03 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403214301" WHERE offer_tcreate <= 1402955101 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 22:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403215201" WHERE offer_tcreate <= 1402956001 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 22:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403216101" WHERE offer_tcreate <= 1402956901 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 22:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403217001" WHERE offer_tcreate <= 1402957801 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 22:45:02 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403217901" WHERE offer_tcreate <= 1402958701 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 23:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403218801" WHERE offer_tcreate <= 1402959601 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 23:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403219701" WHERE offer_tcreate <= 1402960501 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 23:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403220601" WHERE offer_tcreate <= 1402961401 AND offer_status=0nResult:Array
+(
+)
+
+
+Thu, 19 Jun 14 23:45:02 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403221502" WHERE offer_tcreate <= 1402962302 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 00:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403222401" WHERE offer_tcreate <= 1402963201 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 00:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403223301" WHERE offer_tcreate <= 1402964101 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 00:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403224201" WHERE offer_tcreate <= 1402965001 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 00:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403225101" WHERE offer_tcreate <= 1402965901 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 01:00:02 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403226001" WHERE offer_tcreate <= 1402966801 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 01:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403226901" WHERE offer_tcreate <= 1402967701 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 01:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403227801" WHERE offer_tcreate <= 1402968601 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 01:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403228701" WHERE offer_tcreate <= 1402969501 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 02:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403229601" WHERE offer_tcreate <= 1402970401 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 02:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403230501" WHERE offer_tcreate <= 1402971301 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 02:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403231401" WHERE offer_tcreate <= 1402972201 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 02:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403232301" WHERE offer_tcreate <= 1402973101 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 03:00:03 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403233201" WHERE offer_tcreate <= 1402974001 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 03:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403234101" WHERE offer_tcreate <= 1402974901 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 03:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403235001" WHERE offer_tcreate <= 1402975801 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 03:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403235901" WHERE offer_tcreate <= 1402976701 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 04:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403236801" WHERE offer_tcreate <= 1402977601 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 04:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403237701" WHERE offer_tcreate <= 1402978501 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 04:30:05 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403238601" WHERE offer_tcreate <= 1402979401 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 04:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403239501" WHERE offer_tcreate <= 1402980301 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 05:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403240401" WHERE offer_tcreate <= 1402981201 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 05:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403241301" WHERE offer_tcreate <= 1402982101 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 05:30:02 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403242202" WHERE offer_tcreate <= 1402983002 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 05:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403243101" WHERE offer_tcreate <= 1402983901 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 06:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403244001" WHERE offer_tcreate <= 1402984801 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 06:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403244901" WHERE offer_tcreate <= 1402985701 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 06:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403245801" WHERE offer_tcreate <= 1402986601 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 06:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403246701" WHERE offer_tcreate <= 1402987501 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 07:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403247601" WHERE offer_tcreate <= 1402988401 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 07:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403248501" WHERE offer_tcreate <= 1402989301 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 07:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403249401" WHERE offer_tcreate <= 1402990201 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 07:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403250301" WHERE offer_tcreate <= 1402991101 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 08:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403251201" WHERE offer_tcreate <= 1402992001 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 08:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403252101" WHERE offer_tcreate <= 1402992901 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 08:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403253001" WHERE offer_tcreate <= 1402993801 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 08:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403253901" WHERE offer_tcreate <= 1402994701 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 09:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403254801" WHERE offer_tcreate <= 1402995601 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 09:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403255701" WHERE offer_tcreate <= 1402996501 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 09:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403256601" WHERE offer_tcreate <= 1402997401 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 09:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403257501" WHERE offer_tcreate <= 1402998301 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 10:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403258401" WHERE offer_tcreate <= 1402999201 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 10:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403259301" WHERE offer_tcreate <= 1403000101 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 10:30:02 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403260202" WHERE offer_tcreate <= 1403001002 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 10:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403261101" WHERE offer_tcreate <= 1403001901 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 11:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403262001" WHERE offer_tcreate <= 1403002801 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 11:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403262901" WHERE offer_tcreate <= 1403003701 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 11:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403263801" WHERE offer_tcreate <= 1403004601 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 11:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403264701" WHERE offer_tcreate <= 1403005501 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 12:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403265601" WHERE offer_tcreate <= 1403006401 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 12:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403266501" WHERE offer_tcreate <= 1403007301 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 12:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403267401" WHERE offer_tcreate <= 1403008201 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 12:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403268301" WHERE offer_tcreate <= 1403009101 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 13:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403269201" WHERE offer_tcreate <= 1403010001 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 13:15:04 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403270102" WHERE offer_tcreate <= 1403010902 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 13:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403271001" WHERE offer_tcreate <= 1403011801 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 13:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403271901" WHERE offer_tcreate <= 1403012701 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 14:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403272801" WHERE offer_tcreate <= 1403013601 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 14:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403273701" WHERE offer_tcreate <= 1403014501 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 14:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403274601" WHERE offer_tcreate <= 1403015401 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 14:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403275501" WHERE offer_tcreate <= 1403016301 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 15:00:04 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403276402" WHERE offer_tcreate <= 1403017202 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 15:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403277301" WHERE offer_tcreate <= 1403018101 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 15:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403278201" WHERE offer_tcreate <= 1403019001 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 15:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403279101" WHERE offer_tcreate <= 1403019901 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 16:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403280001" WHERE offer_tcreate <= 1403020801 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 16:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403280901" WHERE offer_tcreate <= 1403021701 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 16:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403281801" WHERE offer_tcreate <= 1403022601 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 16:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403282701" WHERE offer_tcreate <= 1403023501 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 17:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403283601" WHERE offer_tcreate <= 1403024401 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 17:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403284501" WHERE offer_tcreate <= 1403025301 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 17:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403285401" WHERE offer_tcreate <= 1403026201 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 17:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403286301" WHERE offer_tcreate <= 1403027101 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 18:00:02 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403287202" WHERE offer_tcreate <= 1403028002 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 18:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403288101" WHERE offer_tcreate <= 1403028901 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 18:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403289001" WHERE offer_tcreate <= 1403029801 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 18:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403289901" WHERE offer_tcreate <= 1403030701 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 19:00:03 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403290801" WHERE offer_tcreate <= 1403031601 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 19:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403291701" WHERE offer_tcreate <= 1403032501 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 19:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403292601" WHERE offer_tcreate <= 1403033401 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 19:45:02 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403293501" WHERE offer_tcreate <= 1403034301 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 20:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403294401" WHERE offer_tcreate <= 1403035201 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 20:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403295301" WHERE offer_tcreate <= 1403036101 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 20:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403296201" WHERE offer_tcreate <= 1403037001 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 20:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403297101" WHERE offer_tcreate <= 1403037901 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 21:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403298001" WHERE offer_tcreate <= 1403038801 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 21:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403298901" WHERE offer_tcreate <= 1403039701 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 21:30:03 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403299801" WHERE offer_tcreate <= 1403040601 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 21:45:02 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403300702" WHERE offer_tcreate <= 1403041502 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 22:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403301601" WHERE offer_tcreate <= 1403042401 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 22:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403302501" WHERE offer_tcreate <= 1403043301 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 22:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403303401" WHERE offer_tcreate <= 1403044201 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 22:45:02 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403304302" WHERE offer_tcreate <= 1403045102 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 23:00:05 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403305201" WHERE offer_tcreate <= 1403046001 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 23:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403306101" WHERE offer_tcreate <= 1403046901 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 23:30:03 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403307001" WHERE offer_tcreate <= 1403047801 AND offer_status=0nResult:Array
+(
+)
+
+
+Fri, 20 Jun 14 23:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403307901" WHERE offer_tcreate <= 1403048701 AND offer_status=0nResult:Array
+(
+)
+
+
+Sat, 21 Jun 14 00:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403308801" WHERE offer_tcreate <= 1403049601 AND offer_status=0nResult:Array
+(
+)
+
+
+Sat, 21 Jun 14 00:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403309701" WHERE offer_tcreate <= 1403050501 AND offer_status=0nResult:Array
+(
+)
+
+
+Sat, 21 Jun 14 00:30:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403310601" WHERE offer_tcreate <= 1403051401 AND offer_status=0nResult:Array
+(
+)
+
+
+Sat, 21 Jun 14 00:45:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403311501" WHERE offer_tcreate <= 1403052301 AND offer_status=0nResult:Array
+(
+)
+
+
+Sat, 21 Jun 14 01:00:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403312401" WHERE offer_tcreate <= 1403053201 AND offer_status=0nResult:Array
+(
+)
+
+
+Sat, 21 Jun 14 01:15:01 +0000: Query: UPDATE user_offers SET offer_status = 5, offer_tmodified = "1403313301" WHERE offer_tcreate <= 1403054101 AND offer_status=0nResult:Array
+(
+)
+
+

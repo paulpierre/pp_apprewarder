@@ -1,0 +1,200 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="{S_CONTENT_DIRECTION}" lang="{S_USER_LANG}" xml:lang="{S_USER_LANG}">
+<head>
+
+<meta http-equiv="content-type" content="text/html; charset={S_CONTENT_ENCODING}" />
+<meta http-equiv="content-style-type" content="text/css" />
+<meta http-equiv="content-language" content="{S_USER_LANG}" />
+<meta http-equiv="imagetoolbar" content="no" />
+<meta name="resource-type" content="document" />
+<meta name="distribution" content="global" />
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<!-- Mobile Specific Meta -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+{META}
+<title>{SITENAME} &bull; <!-- IF S_IN_MCP -->{L_MCP} &bull; <!-- ELSEIF S_IN_UCP -->{L_UCP} &bull; <!-- ENDIF -->{PAGE_TITLE}</title>
+
+<!-- IF S_ENABLE_FEEDS -->
+	<!-- IF S_ENABLE_FEEDS_OVERALL --><link rel="alternate" type="application/atom+xml" title="{L_FEED} - {SITENAME}" href="{U_FEED}" /><!-- ENDIF -->
+	<!-- IF S_ENABLE_FEEDS_NEWS --><link rel="alternate" type="application/atom+xml" title="{L_FEED} - {L_FEED_NEWS}" href="{U_FEED}?mode=news" /><!-- ENDIF -->
+	<!-- IF S_ENABLE_FEEDS_FORUMS --><link rel="alternate" type="application/atom+xml" title="{L_FEED} - {L_ALL_FORUMS}" href="{U_FEED}?mode=forums" /><!-- ENDIF -->
+	<!-- IF S_ENABLE_FEEDS_TOPICS --><link rel="alternate" type="application/atom+xml" title="{L_FEED} - {L_FEED_TOPICS_NEW}" href="{U_FEED}?mode=topics" /><!-- ENDIF -->
+	<!-- IF S_ENABLE_FEEDS_TOPICS_ACTIVE --><link rel="alternate" type="application/atom+xml" title="{L_FEED} - {L_FEED_TOPICS_ACTIVE}" href="{U_FEED}?mode=topics_active" /><!-- ENDIF -->
+	<!-- IF S_ENABLE_FEEDS_FORUM and S_FORUM_ID --><link rel="alternate" type="application/atom+xml" title="{L_FEED} - {L_FORUM} - {FORUM_NAME}" href="{U_FEED}?f={S_FORUM_ID}" /><!-- ENDIF -->
+	<!-- IF S_ENABLE_FEEDS_TOPIC and S_TOPIC_ID --><link rel="alternate" type="application/atom+xml" title="{L_FEED} - {L_TOPIC} - {TOPIC_TITLE}" href="{U_FEED}?f={S_FORUM_ID}&amp;t={S_TOPIC_ID}" /><!-- ENDIF -->
+<!-- ENDIF -->
+
+<script type="text/javascript">
+// <![CDATA[
+	var jump_page = '{LA_JUMP_PAGE}:';
+	var on_page = '{ON_PAGE}';
+	var per_page = '{PER_PAGE}';
+	var base_url = '{A_BASE_URL}';
+	var style_cookie = 'phpBBstyle';
+	var style_cookie_settings = '{A_COOKIE_SETTINGS}';
+	var onload_functions = new Array();
+	var onunload_functions = new Array();
+
+	<!-- IF S_USER_PM_POPUP and S_NEW_PM -->
+		var url = '{UA_POPUP_PM}';
+		window.open(url.replace(/&amp;/g, '&'), '_phpbbprivmsg', 'height=225,resizable=yes,scrollbars=yes, width=400');
+	<!-- ENDIF -->
+
+	/**
+	* Find a member
+	*/
+	function find_username(url)
+	{
+		popup(url, 760, 570, '_usersearch');
+		return false;
+	}
+
+	/**
+	* New function for handling multiple calls to window.onload and window.unload by pentapenguin
+	*/
+	window.onload = function()
+	{
+		for (var i = 0; i < onload_functions.length; i++)
+		{
+			eval(onload_functions[i]);
+		}
+	};
+
+	window.onunload = function()
+	{
+		for (var i = 0; i < onunload_functions.length; i++)
+		{
+			eval(onunload_functions[i]);
+		}
+	};
+
+// ]]>
+</script>
+<script type="text/javascript" src="{T_SUPER_TEMPLATE_PATH}/styleswitcher.js"></script>
+<script type="text/javascript" src="{T_SUPER_TEMPLATE_PATH}/forum_fn.js"></script>
+
+<link href="{T_THEME_PATH}/print.css" rel="stylesheet" type="text/css" media="print" title="printonly" />
+<link href="{T_STYLESHEET_LINK}" rel="stylesheet" type="text/css" media="screen, projection" />
+
+<!-- font icons start-->
+<link href="{T_THEME_PATH}/icons-set.css" rel="stylesheet" type="text/css" media="screen, projection" />
+<link href="{T_THEME_PATH}/font-awesome.min.css" rel="stylesheet" type="text/css" media="screen, projection" />
+<!-- icons font end-->
+
+<!-- google webfonts start-->
+<link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css' />
+<link href='http://fonts.googleapis.com/css?family=Anton' rel='stylesheet' type='text/css' />
+<!-- google webfonts end-->
+
+<!-- IF S_CONTENT_DIRECTION eq 'rtl' -->
+	<link href="{T_THEME_PATH}/bidi.css" rel="stylesheet" type="text/css" media="screen, projection" />
+<!-- ENDIF -->
+
+</head>
+
+<body id="phpbb" class="section-{SCRIPT_NAME} {S_CONTENT_DIRECTION}">
+
+<div id="wrapheader" class="navbar navbar-fixed-top">
+	<a id="top" name="top" accesskey="t"></a>
+
+	<div id="page-header" >
+		<div class="inner-header" >
+		<div class="logodiv pull-left"><h1><a href="{API_HOST}">{SITE_LOGO_IMG}</a></h1></div>		
+
+				<!-- The button for collapse menu  -->   
+				    <a  class="btn-navbar">
+				    <span class="btn-bar"></span>
+				    <span class="btn-bar"></span>
+				    <span class="btn-bar"></span> 				   
+				    </a>
+				<!-- The button for collapse menu end -->
+		</div><!-- inner-header div end -->		
+        <div class="nav-collapse collapse pull-right"><!-- Collapse div start -->
+        	<div class="navbar-holder">
+        	   <ul class="navbar-links">
+        	   		<li id="home"><a href="{U_INDEX}" title="{L_INDEX}"> 
+						<span class="holdericon"><i class="icon-home"></i></span>
+						<span class="header-label">Home</span></a></li>
+
+						<!-- Sample link start below - remove this comment if you want to customise	
+
+						<li id="sample"><a href="#" title="sample link"> 
+						<div class="holdericon"><i class="icon-plus-circled"></i></div>
+						<span class="header-label">sample link</span></a></li>
+						
+						 -->
+
+				<!-- IF not S_USER_LOGGED_IN and S_REGISTER_ENABLED and not (S_SHOW_COPPA or S_REGISTRATION) -->
+					<li id="register"><a href="{U_REGISTER}" title="{L_REGISTER}">
+						<div class="holdericon"><i class="icon-pencil-alt"></i></div>
+						<span class="header-label">{L_REGISTER}</span></a></li><!-- ENDIF -->
+				<!-- IF not S_IS_BOT and not S_USER_LOGGED_IN-->		
+					<li id="login"><a href="{U_LOGIN_LOGOUT}" title="{L_LOGIN_LOGOUT}" >
+						<div class="holdericon"><i class="icon-right-circled"></i></div>
+						<span class="header-label">{L_LOGIN_LOGOUT}</span></a></li><!-- ENDIF --> 				
+				 
+				<!-- IF not S_IS_BOT and S_USER_LOGGED_IN -->				 
+					
+	    			<!-- IF U_ACP -->	    		
+               		<li id="acp"><a href="{U_ACP}" title="{L_ACP}">
+               			<div class="holdericon"><i class="icon-cog-alt"></i></div>
+						<span class="header-label">Admin</span></a></li><!-- ENDIF -->
+
+                	<!-- IF U_MCP -->
+					<li id="mcp"><a href="{U_MCP}" title="{L_MCP}">
+					    <div class="holdericon"><i class="icon-cog"></i></div>
+						<span class="header-label">mcp</span></a></li><!-- ENDIF -->	
+
+					<li id="ucp"><a href="{U_PROFILE}" title="{L_PROFILE}">
+					    <div class="holdericon"><i class="icon-user-male"></i></div>
+						<span class="header-label">Profile</span></a></li>
+
+					<!-- IF S_DISPLAY_PM --> 
+					<li id="msg"><a href="{U_PRIVATEMSGS}">
+						<!-- IF PRIVATE_MESSAGE_INFO_UNREAD or S_USER_NEW_PRIVMSG-->
+						<!-- IF PRIVATE_MESSAGE_INFO_UNREAD--><span class="msg-counter-bg">{PRIVATE_MESSAGE_INFO_UNREAD} </span><!-- ELSE -->
+						<span class="msg-counter-bg">{PRIVATE_MESSAGE_INFO} </span><!-- ENDIF --> 
+						<div class="holdericon"><i class="icon-mail-alt"></i></div>
+						<span class="header-label">msg</span>
+						<!-- ELSE -->
+						<span class="msg-counter">{PRIVATE_MESSAGE_INFO}</p></span>						
+					    <div class="holdericon"><i class="icon-mail-alt"></i></div>
+						<span class="header-label">msg</span><!-- ENDIF -->
+						
+					</a></li><!-- ENDIF -->					
+
+				    <li id="logout"><a href="{U_LOGIN_LOGOUT}" title="{L_LOGIN_LOGOUT}" >
+				        <div class="holdericon"><i class="icon-left-circled"></i></div>
+						<span class="header-label">{L_LOGOUT}</span></a></li>
+
+					<!-- IF U_RESTORE_PERMISSIONS -->
+					<li><a href="{U_RESTORE_PERMISSIONS}">{L_RESTORE_PERMISSIONS}</a></li><!-- ENDIF -->		
+				
+					<!-- ENDIF -->
+				</ul>
+			</div><!-- navbar-holder end-->
+		</div><!-- collapse div end--> 		
+	</div><!-- #page-header end -->	
+
+<a name="start_here"></a>
+
+</div><!-- #wrapheader -->
+
+<div id="wrapcentre" >		 
+	<div class="bg-pic-holder">
+				</div>
+	<div id="page-body">
+
+		<!-- IF SCRIPT_NAME == index and not S_ADMIN_AUTH or SCRIPT_NAME == viewforum or SCRIPT_NAME == viewtopic-->
+		<div id="right-content"><!-- ENDIF -->				
+		
+
+		<!-- IF S_BOARD_DISABLED and S_USER_LOGGED_IN and (U_MCP or U_ACP) -->
+		<div id="information" class="rules">
+			<div class="inner">
+				<strong>{L_INFORMATION}:</strong> {L_BOARD_DISABLED}
+			</div>
+		</div>
+		<!-- ENDIF -->

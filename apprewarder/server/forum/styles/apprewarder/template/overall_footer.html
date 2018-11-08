@@ -1,0 +1,91 @@
+		<!-- IF SCRIPT_NAME == index and not S_ADMIN_AUTH or SCRIPT_NAME == viewforum or SCRIPT_NAME == viewtopic-->
+			</div><!-- right-content end -->
+			<div id="sidebar">
+				<!-- INCLUDE sidebar.html -->
+			</div>
+		<!-- ELSE --><!-- ENDIF -->	
+
+  	</div><!-- #page-body end -->
+</div><!-- #wrapcentre end -->
+<div class="clear"></div>
+
+<div id="wrap-footer" style="display:none !important;"> 
+	<div id="page-footer" style="display:none !important;"> 
+		<div class="footer-l" style="display:none !important;">
+
+		<div class="footer-block about"><!-- footer-block "About us" start -->
+	 		<h4>About Us</h4>
+
+	 			<p>Welcome</p>
+
+	 	</div><!-- footer-block "About us" end --> 
+
+	  		<div class="footer-block"><!-- footer-block "Useful Links" start -->
+
+	            <h4>Useful Links</h4>
+	              <a href="{U_INDEX}">{L_INDEX}</a>
+	              <a href="{U_FAQ}">{L_FAQ}</a>	
+	              <!-- IF S_DISPLAY_MEMBERLIST -->
+                  <a href="{U_MEMBERLIST}">{L_MEMBERLIST}</a><!-- ENDIF --> 		
+	              <!-- IF U_TEAM -->
+                  <a href="{U_TEAM}">{L_THE_TEAM}</a> <!-- ENDIF -->                    
+
+	    	</div><!-- footer-block "Useful Links" end -->
+	    	
+	  </div><!-- footer-l end -->
+
+	  <div class="footer-r">
+
+	  	<div class="footer-block"><!-- footer-block "Our Partners" start -->
+
+	            <h4>Our Partners</h4>
+	              <a href="#">Sample Link1</a>
+	              <a href="#">Sample Link2</a>
+	              <a href="#">Sample Link3</a>
+
+	    	</div><!-- footer-block "Our Partners" end --> 
+
+	 	<div class="footer-soc-icons"><!-- social icons block start -->
+	 		<h4>Get Social</h4>
+	 			<div class="soc-content">            
+				 <ul>
+				 	<li><a href="#" title="Twitter" class="twitter"><i class="fa fa-twitter"></i></a></li>           
+					<li><a href="#" title="Join us on facebook" class="facebook"><i class="fa fa-facebook"></i></a></li>
+					<li><a href="#" title="gplus" class="gplus"><i class="fa fa-google-plus"></i></a></li>
+					<li><a href="#" title="youtube" class="youtube"><i class="fa fa-youtube"></i></a></li>
+					<li><a href="#" title="rss" class="rss"><i class="fa fa-rss"></i></a></li>
+					<li><a href="#" title="pinterest" class="gplus"><i class="fa fa-pinterest"></i></a></li>
+
+				 </ul>
+			  </div> <!-- soc-content end -->
+		</div><!-- social icons block end -->
+
+	  </div><!-- footer-r end -->
+	</div><!-- #page-footer end -->	
+</div><!-- #wrap-footer end -->	
+<div>
+ <a href="#" class="go-top"><i class="icon-angle-up"></i></a>
+</div>
+
+<!-- JavaScript -->
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+<script type="text/javascript" src="{T_THEME_PATH}/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="{T_THEME_PATH}/js/selectivizr-min.js"></script>
+<script type="text/javascript" src="{T_THEME_PATH}/js/respond.min.js"></script>
+<script type="text/javascript" src="{T_THEME_PATH}/js/custom.js"></script>
+<script type="text/javascript" src="{T_THEME_PATH}/js/jquery.fitvids.js"></script>
+
+<script type="text/javascript">
+  $(document).ready(function(){
+    // Target your .container, .wrapper, .post, etc.
+    $(".postbody .content").fitVids();
+  });
+</script>
+
+<div style="display:none;">
+	<a id="bottom" name="bottom" accesskey="z"></a>
+	<!-- IF not S_IS_BOT -->{RUN_CRON_TASK}<!-- ENDIF -->
+</div>
+
+</body>
+</html>

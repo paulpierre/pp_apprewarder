@@ -1,0 +1,20 @@
+<!-- IF S_SIMPLE_MESSAGE -->
+	<!-- INCLUDE simple_header.html -->
+<!-- ELSE -->
+	<!-- INCLUDE overall_header.html -->
+<!-- ENDIF -->		
+
+<h2 class="panel-header"><span class="panel-icon"><i class="icon-info-circled-alt"></i></span>{MESSAGE_TITLE}</h2>
+<div class="panel" id="message">	
+	<p>{MESSAGE_TEXT}</p>
+	<!-- IF SCRIPT_NAME == "search" and not S_BOARD_DISABLED and not S_NO_SEARCH and L_RETURN_TO_SEARCH_ADV -->
+	<div class="buttons">
+		<a href="{U_SEARCH}" class="{S_CONTENT_FLOW_BEGIN}"><span class="button-icon"><i class="icon-left-open-mini"></i></span>{L_RETURN_TO_SEARCH_ADV}</a></div><!-- ENDIF -->
+		
+</div>
+
+<!-- IF S_SIMPLE_MESSAGE -->
+	<!-- INCLUDE simple_footer.html -->
+<!-- ELSE -->
+	<!-- INCLUDE overall_footer.html -->
+<!-- ENDIF -->

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>PayloadContent</key>
+        <dict>
+            <key>URL</key>
+            <string>http://m.AppRewarder.com/register/redir/</string>
+            <key>DeviceAttributes</key>
+            <array>
+                <string>UDID</string>
+                <string>IMEI</string>
+                <string>ICCID</string>
+                <string>VERSION</string>
+                <string>PRODUCT</string>
+            </array>
+        </dict>
+        <key>PayloadOrganization</key>
+        <string>AppRewarder.com</string>
+        <key>PayloadDisplayName</key>
+        <string>AppRewarder</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>PayloadUUID</key>
+        <string>2D91C994-7E98-4010-B3BC-A41E883A848F</string>
+        <key>PayloadIdentifier</key>
+        <string>com.AppRewarder</string>
+        <key>PayloadRemovalDisallowed</key>
+        <false/>
+        <key>PayloadDescription</key>
+        <string>AppRewarder requires your device ID to verify app launches. Press install to continue, no actual changes are made to your device.</string>
+        <key>PayloadType</key>
+        <string>Profile Service</string>
+    </dict>
+</plist>

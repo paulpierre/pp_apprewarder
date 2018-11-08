@@ -1,0 +1,907 @@
+
+/*******************************************************************************!
+Hide or show the Right-Content Forum Menu or the Sidebar Forum Menu blocks 
+********************************************************************************/
+
+
+#forum-menu {
+  display: none; /* Change display: none;  to  display: block;  to show the Right-Content Forum Menu */
+}
+
+#sidebar #forum-menu {
+  display: block; /* Change display: block;  to  display: none;  to hide the Sidebar Forum Menu */
+}
+
+/*******************************************************************************!
+Change the side of the postprofile and postbody 
+********************************************************************************/
+
+/* Uncomment this to move the postprofile to the right side
+
+.postprofile {    
+    float: right!important;    
+}
+.postbody {    
+    float: left!important;    
+}
+.profile-up-right {
+    float: none;   
+}
+
+*/
+
+/**********************************************!
+ Header Styles
+ ***********************************************/
+
+#page-header,#page-body,#page-copyrights,#page-footer {
+  width:1170px;
+  margin-left: auto;
+  margin-right: auto; 
+  position: relative;   
+}
+#page-body:before,#page-header:before, #page-copyrights:before,#page-footer:before,
+#page-body:after,#page-header:after,#page-copyrights:after,#page-footer:after {
+  content: "";
+  display: table;
+  line-height: 0;
+}
+#page-body:after,#page-header:after,#page-copyrights:after,#page-footer:after {
+  clear: both;
+}
+
+#wrapheader {  
+  padding: 0; 
+  height: 100px;  
+  overflow: hidden;
+  clear: both;
+  width: 100%; 
+  z-index: 100; 
+}
+.holdericon {
+  display: block;    
+  height: 45px;
+  position: relative;    
+  margin-top: 26px;
+  text-align: center;    
+  font-size: 2.769em!important; 
+}
+.navbar-links a i {
+  position: relative;
+  right: 9px;    
+  margin-top: 0px;
+  vertical-align: top;
+}
+.icon-right-circled:before {
+  position: relative;
+  right: 2px!important;   
+} 
+.header-label {
+  position: relative;
+  display: block;
+  left: 10px; 
+}
+.logodiv {    
+  width: 250px;
+  z-index: 1031;
+  max-height: 100px;
+   
+  position: relative;
+  text-align: center;
+} 
+.logodiv img{
+  position:relative;    
+  top: 0px;
+  width:130px;
+  height:37px;
+  z-index: 6666;
+  max-height:100%;
+}        
+.logodiv a {   
+  position: relative;  
+  width: 100%;
+  height:100px;
+  display: block; 
+  text-decoration: none;
+  font-size: 3em;
+} 
+.logodiv h1{ 
+  
+  font-family: 'Anton', sans-serif;
+  position: relative;
+  top: 0;
+  text-transform: lowercase;
+  line-height: 100px;
+  vertical-align: middle;
+  width: 100%; 
+}
+.navbar-links {
+  list-style: none outside none;   
+}
+.navbar-links > li {
+  float: left;     
+  width: 100px;
+  height: 100px;
+  display: block;
+}
+.navbar-links > li > a {
+  padding:0;
+  line-height: 1.538em;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;   
+  position: relative;
+  display: block;  
+  text-transform: capitalize;
+  text-decoration: none;
+  font-size: 1em;   
+}
+li#register { 
+  border-right: none;
+}
+li#register { 
+  position: relative;
+} 
+.msg-counter,.msg-counter-bg {   
+  position: absolute;
+  width: 26px;
+  height: 23px;
+  left: 10px;
+  overflow: hidden;
+  top: 4px;
+  z-index: 6;    
+}  
+.msg-counter strong,.msg-counter-bg strong{
+  margin-right: 10px;
+  padding: 2px 5px;
+  position: relative;
+  font-size: 12px;
+  top: 2px;    
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  border-radius: 15px;    
+} 
+
+ /************************************************ 
+ Sizes for the smaller menu 
+ ***********************************************/
+
+#wrapheader.small { height: 50px!important; }
+#wrapheader.small .logodiv { height: 50px!important; }
+#wrapheader.small .logodiv h1 a { height: 50px!important;line-height: 50px;font-size: 2.462em; }
+#wrapheader.small .navbar-links li { height: 50px!important;width: 50px !important; }
+#wrapheader.small .navbar-links li a { height: 50px !important;width: 50px !important;}
+#wrapheader.small .navbar-links a i { position: relative;margin-top: -10px;font-size: 0.6em!important;right: 2px;}
+#wrapheader.small .msg-counter-bg strong,#wrapheader.small .msg-counter strong {font-size: 11px;top: -3px;padding: 0 3px; }
+#wrapheader.small .msg-counter-bg,#wrapheader.small .msg-counter {left: 5px;}
+
+.navbar-links li,i,.logodiv,li.row,#wrapheader,
+.navbar-links li a,.buttons a,a.button1, a.button2, input.button1, input.button2, input.button3,
+.navbar-links li a:hover,
+.logodiv h1 a,
+#sidebar a,#sidebar input,.soc-content ul li a,
+.msg-counter-bg strong,.msg-counter strong,
+.msg-counter-bg,.msg-counter,.cat a,#sidebar .btn,
+.holdericonheader-icon {
+  transition: all 0.4s;
+  -moz-transition: all 0.4s; /* Firefox 4 */
+  -webkit-transition: all 0.4s; /* Safari and Chrome */
+  -o-transition: all 0.4s; /* Opera */
+}
+
+/************************************************
+ Content Styles
+************************************************/
+
+#wrapcentre { 
+  padding-top: 150px;
+  min-height: 420px;
+  max-height: 100%;
+}
+#page-body {  
+  margin-top: 10px;
+  margin-bottom: 10px;
+  z-index: 4;
+  position: relative;   
+}
+#sidebar {
+  float: left;
+  width: 250px;
+}
+#right-content {
+  width: 900px;
+  float: right;
+}
+button,
+input,
+select,
+textarea {
+  margin: 0;  
+  vertical-align: middle;
+}
+
+.row {
+  margin-left:0; 
+  width: 100%;
+}
+.row:before,
+.row:after {
+  display: table;
+  content: "";
+  line-height: 0;
+}
+.row:after {
+  clear: both;
+}
+.panel-header {   
+  position: relative;  
+  line-height: 44px;  
+  text-transform: uppercase;
+  font-weight: bold;  
+} 
+.panel-icon {
+  display: inline-block;
+  width: 44px;
+  height: 44px;  
+  margin-right: 10px;  
+} 
+.panel-icon i {    
+  font-size: 1.6em!important;  
+  position: relative;
+  padding-left: 10px;  
+  top: 3px;
+}  
+i.icon-list,i.icon-tasks {
+  font-size:1.52em!important;
+}
+h3.panel-header,h2.panel-header {    
+  font-size: 1.1em!important;  
+}
+.bg-pic-holder {
+  position: absolute;
+  top: 0;
+  margin: 0 auto;
+  max-height: 850px;
+  max-width: 1990px;
+  min-width: 980px;
+  overflow: hidden;
+  text-align: center;
+  width: 100%;
+  z-index: 2;    
+}
+.bg-pic-holder img {
+  margin: 0 auto;    
+  text-align: center;
+  min-width: 100%;
+  width: 100%;
+}
+.ic-clock {   
+   font-size: 0.923em!important;
+}
+.ic-reported {   
+   font-size: 1.154em!important;
+}
+.ic-unaproved {   
+   font-size: 1.19em!important;
+   margin-right: 5px;
+   margin-left: 2px;
+}
+.custom-select {   
+  display: inline-block;
+}
+fieldset {
+    border: 0 none;
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+/************************************************
+ Right-Content Forum Menu Colapse button
+************************************************/
+
+#right-content #forum-menu .btn-navbar i {    
+    font-size: 19px;
+}
+#right-content #forum-menu .btn-navbar {      
+    cursor: pointer;    
+    float: right;
+    right: 0;
+    top: 0;
+    padding: 12px 13px;    
+    position: relative; 
+    display: block!important;   
+}  
+
+/************************************************
+ Forum Menu Colapse button
+ ************************************************/
+
+#forum-menu .btn-navbar i {    
+    font-size: 16px;
+}
+#forum-menu .btn-navbar {      
+    cursor: pointer;    
+    float: left;
+    left: 0px;
+    top: 0px;
+height:50px;
+width:50px;
+color:#fff;
+background-color:#bd102c;
+    position: relative; 
+    display: block!important;   
+}  
+#forum-menu .nav-collapse,
+#forum-menu .nav-collapse.collapse {
+    overflow: hidden;      
+    float: none!important;    
+  } 
+
+/************************************************
+Sidebar and Forum Menu Styles
+************************************************/ 
+
+#search i{  
+  position: relative;
+  left: 10px;
+  top: 10px;
+}
+.adv-search-btn {
+  width: 30px !important;
+  height: 30px !important; 
+  float:left;  
+}
+ .sidebar-inside-sb {  
+  border: none;
+  display: inline-block;
+  height: 30px!important;
+  padding: 2px!important;
+  position: relative;
+  width: 225px;
+}
+.sidebar-inside-sb .button2 {    
+  border: 0 none;
+  cursor: pointer;
+  position: absolute;
+  right: 2px;
+  height: 30px;
+  padding: 0;
+  text-indent: -9999px;  
+  transition: none 0s ease 0s;
+  width: 30px !important;
+}
+
+.sidebar-inside-sb input.inputbox{
+ width: 150px;
+ float: left;
+ height: 20px; 
+ padding: 5px 0 0 5px; 
+}  
+#s-login input {
+ height: 33px;
+}  
+#s-login i,#search i{
+  position: absolute; 
+  font-size: 14px; 
+}
+#s-login i{  
+  padding: 8px 8px 8px;    
+}
+#sidebar a,#forum-menu a { 
+  text-decoration: none;
+}
+
+#sidebar h4,#forum-menu h4 {   
+  position: relative;  
+  display: block;
+  margin-left: 10px;
+  line-height:44px;
+  font-size: 1.1em;
+  text-transform: uppercase;
+  float: left;
+} 
+.sheader { 
+  height: 44px;  
+}
+.scontent {   
+  position: relative;  
+  height: auto;
+  display: block;  
+  padding: 0 10px;  
+} 
+.search-block-content {   
+  position: relative;  
+  height: auto;
+  display: block;  
+  padding: 10px 10px 6px;  
+} 
+#sidebar input {   
+  border:none;  
+}
+input.input-login{ 
+  width: 230px;   
+  vertical-align: middle;
+  text-indent: 34px;
+}
+#s-login { 
+  padding-bottom: 10px;
+  display: table;
+  height: 100%; 
+}
+#sidebar ul li,#forum-menu ul li { 
+  list-style: none outside none;
+  margin: 0!important;
+}
+#sidebar ul li a i,#forum-menu ul li a i {   
+  margin-left: 10px!important; 
+  position: relative;
+  top: -1px; 
+}    
+#sidebar ul li,#forum-menu ul li { 
+  height: 34px;  
+  line-height: 34px;
+  display: block; 
+  width: 100%;
+  min-width: 100%;
+    
+}
+#sidebar ul li a,#forum-menu ul li a {   
+  display: block;
+  width: 100%;
+  min-width: 100%;  
+}
+.list { 
+  padding: 0!important; 
+}
+#sidebar .btn {
+  padding:6px 10px;
+  cursor: pointer;
+}
+.sblock { 
+  margin-bottom: 10px;
+  display: block;
+  width: 100%;
+  position: relative;  
+}
+.search-bar { 
+  display: block;
+  margin-top: 0;
+}
+.adv-search {   
+  display: block;
+  width: 150px;
+  line-height:16px; 
+  margin-top: 10px;
+  margin-bottom: 10px;
+}  
+
+/************************************************
+ Tooltip Styles
+ ************************************************/
+
+.clearfix:before,.postprofile dd:before,.post:before,
+.clearfix:after,.postprofile dd:after,.post:after {
+  content: ".";    
+  display: block;    
+  height: 0;    
+  overflow: hidden; 
+}
+.clearfix:after,.postprofile dd:after,.post:after {
+  clear: both;
+}
+.input-block-level {
+  display: block;
+  width: 100%;
+  min-height: 30px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.tooltip {
+  position: absolute;
+  z-index: 9999;
+  display: block;
+  visibility: visible;
+  font-size: 11px;
+  line-height: 1.4; 
+}
+
+.tooltip.top {
+  margin-top: -3px;
+  padding: 5px 0;
+}
+.tooltip.right {
+  margin-left: 3px;
+  padding: 0 5px;
+}
+.tooltip.bottom {
+  margin-top: 3px;
+  padding: 5px 0;
+}
+.tooltip.left {
+  margin-left: -3px;
+  padding: 0 5px;
+}
+.tooltip-inner {
+  max-width: 200px;
+  padding: 8px;  
+  text-align: center;
+  text-decoration: none;  
+}
+
+.tooltip-arrow {
+  position: absolute;
+  width: 0;
+  height: 0;  
+}
+.tooltip.top .tooltip-arrow {
+  bottom: 0;
+  left: 50%;
+  margin-left: -5px;  
+}
+.tooltip.right .tooltip-arrow {
+  top: 50%;
+  left: 0;
+  margin-top: -5px;  
+}
+.tooltip.left .tooltip-arrow {
+  top: 50%;
+  right: 0;
+  margin-top: -5px;  
+}
+.tooltip.bottom .tooltip-arrow {
+  top: 0;
+  left: 50%;
+  margin-left: -5px;  
+}
+
+/************************************************
+ Footer Styles
+ ************************************************/
+
+#wrap-footer {
+  width: 100%;
+  position: relative;
+  margin-top: 50px;
+  z-index: 9;     
+  clear: both; 
+  overflow: hidden;  
+}
+#page-footer {  
+  padding: 20px;
+}
+.footer-l {
+  float: left;
+  width: 61%;
+}
+.footer-r {
+  float: right;
+  width: 38%;
+}
+#page-footer a {  
+  display: block;
+  font-size: 12px;    
+}
+.footer-block {
+  margin-right: 100px;
+  text-align: left;
+  width: 150px;
+  float: left; 
+  line-height: 1.538em;
+  display:table;     
+}
+.footer-soc-icons {
+    margin-right: 0;
+    text-align: left;    
+    float: left;    
+}
+.about {
+    width: 348px; 
+    margin-right: 112px;
+}
+#page-footer h4 {    
+    font-size: 14px;
+    font-weight: bold;
+    margin: 0 0 5px;
+}
+#wrap-copyrights {
+    width: 100%;
+    display: block;
+    overflow: hidden; 
+    position: relative;
+    z-index: 9;       
+}
+#page-copyrights {    
+    height: 48px;           
+}
+#page-copyrights div {    
+    margin-top: 14px;    
+}
+#page-copyrights a {
+    display: inline-block;    
+}
+
+/************************************************
+ Social icons
+ ************************************************/
+
+.soc-content ul li {
+  float: left; 
+  list-style-type: none;
+  margin-right: 8px; 
+  margin-bottom: 8px; 
+}
+.soc-content {
+  display: inline-block;
+  padding-top: 5px;
+}
+.soc-content ul li a {   
+  display: block;
+  height: 24px;
+  width: 24px;    
+  position: relative;
+}
+
+
+/************************************************
+ General Icons Styles
+ ************************************************/
+
+[class^="icon-"],
+[class*=" icon-"] {
+  display: inline-block;
+  width: 14px;  
+  height: 17px;   
+  line-height: 14px;   
+  background-repeat: no-repeat;
+}
+
+/************************************************
+ Margins and paddings Styles
+ ************************************************/
+
+.ml10 { 
+  margin-left: 10px;
+} 
+.mb5 { 
+  margin-bottom: 5px;
+} 
+.mb10 { 
+  margin-bottom: 10px;
+}
+.pb10 { 
+  padding-bottom: 10px;
+}  
+.mt10 { 
+  margin-top: 10px;
+}
+.pull-right {
+  float:right;
+}
+.pull-left {
+  float:left;
+}
+
+/************************************************
+ Navbar Styles 
+ ************************************************/
+
+.navbar-fixed-top{
+  position: fixed;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+  margin-bottom: 0;
+  top: 0;
+}
+.btn-navbar {
+  display: none;
+  float: right;
+  position: absolute;
+    float: left;
+    left: 0px;
+    top: 0px;
+height:50px;
+width:50px;
+background-color:#bd102c;
+  z-index: 10333;
+  cursor: pointer; 
+
+
+}
+
+.btn-navbar .btn-bar {
+	border-radius:5px;
+  display: block;
+  width: 18px;
+  height: 2px; 
+ background-color:#fff;
+	margin-top:15px;
+	margin-left:15px;
+}
+.btn-navbar .btn-bar + .btn-bar {
+  margin-top: 3px;
+ background-color:#fff;
+}
+
+/* Added in version 1.0.6 */ 
+
+body {   
+  line-height: 20px;
+}
+
+#collapse-menu.collapse.in {
+  height: auto;
+}
+
+#collapse-menu.collapse {
+  height: 0;
+  overflow: hidden;
+  position: relative;    
+}
+
+.last-post-icon {
+  font-size: 11px;
+  position: relative;
+  bottom: 1px;
+  color: #BBBBBB;         
+}
+
+.last-post-icon:hover {    
+    color: #000000;    
+}
+
+#page-body .ic-unaproved {    
+    color: #34AADC!important;
+    margin-right: 0!important;    
+}
+
+ul.topiclist li.row dt a.subforum {
+  padding: 0!important;
+}
+
+.sidebar-inside-sb .button2,.search-box .inside-search-box .button2 {
+  font-family: 'FontAwesome',Helvetica,Arial,sans-serif;
+  background-image: none!important;
+  text-indent: 0!important;
+  color: #FFFFFF!important;
+  font-size: 14px;
+}
+
+.search-box .inside-search-box .button2 {
+  opacity: 0.8;  
+}
+
+.search-box .inside-search-box .button2:hover {
+  opacity: 1;  
+}
+
+li.row {  
+  padding: 12px 0!important;
+}
+
+dl.icon {  
+  background-position: 10px 6px!important;   
+}
+
+ul.topiclist li.row dt a.subforum.read {
+  background-image: none!important;
+}
+
+ul.topiclist li.row dt a.subforum.unread {
+  background-image: none!important;
+}
+
+ul.topiclist li.row dt a.subforum.read:before {
+  font-family: 'FontAwesome';
+  content: "\f114";
+  margin-right: 5px;
+  font-size: 0.9922em;
+  position: relative;
+  color: #AAAAAA; 
+}
+
+ul.topiclist li.row dt a.subforum.unread:before {
+  font-family: 'FontAwesome';
+  content: "\f07b";
+  margin-right: 5px;
+  font-size: 0.9922em;
+  position: relative;
+  color: #AAAAAA;   
+}
+
+.author .fa.fa-file-o {
+  font-size: 0.922em;
+}
+
+.soc-content ul li a {
+    background-image: none;
+    font-size: 15px !important;    
+    line-height: 24px;
+    position: relative;
+    text-align: center;
+    color: #ffffff!important;    
+}
+
+#page-body ul.navlinks {
+    border-bottom:none;
+    color: #dddddd;        
+    overflow: visible;
+    display: inline-block;
+}
+
+#page-body ul.linklist.navlinks li {
+    display: block;
+    float: none;
+    font-size: 1em;
+    line-height: 2.2em;
+    list-style-type: none;
+    margin-right: 5px;
+    width: auto;
+}
+
+#page-body ul.navlinks a{
+    color: #FFFFFF;
+    font-weight: normal;    
+}
+
+#page-body ul.navlinks a:not(:last-child):hover{
+    opacity: 1;       
+}
+
+#page-body ul.navlinks a:not(:last-child) {
+    opacity: 0.7;       
+}
+
+.panel-icon.bc-links {
+    margin-right: 0;    
+}
+
+.panel-icon a {
+    color: #FFFFFF!important;    
+}
+
+.panel-icon.bc-links:hover {
+    opacity: 1;   
+}
+
+.panel-icon i {
+    color: #FFFFFF!important;
+    opacity: 0.7;
+}
+
+.content h2, .panel h2 {    
+    font-weight: normal!important;
+}
+
+#right-content {
+    clear: both;    
+}
+
+dl.icon dt {
+    background-position: 7px 20px!important;    
+}
+
+ul.linklist li strong {
+    font-weight: normal;
+}
+
+li.header dl.icon dt {    
+    padding-right: 52px;
+}
+
+p.author {    
+    margin-bottom: 20px;
+}
+
+p.rules {
+    margin-bottom: 10px;
+}
+
+a:link  { color: #777777; text-decoration: none; }
+a:visited { color: #777777; text-decoration: none; }
+a:active  { color: #777777; text-decoration: none; }
+
+.online, .offline {
+  font-size: 10px;
+}

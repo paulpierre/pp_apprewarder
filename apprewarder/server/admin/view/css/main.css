@@ -1,0 +1,730 @@
+
+body {
+    padding-top: 50px;
+}
+
+div .content {
+    margin-left:auto;
+    margin-right:auto;
+    max-width:75%;
+    /*border:1px red solid;*/
+    padding-top:30px;
+}
+
+
+.navbar-brand {
+    background:url(../img/img-logo-header.png) no-repeat center;
+    width:200px;
+    height:51px;
+    background-size:130px 37px;
+}
+
+.box {
+    padding:20px;
+    border:#c0c0c0 1px solid;
+
+}
+
+.header {
+    font-size:12px;
+    font-weight:bold;
+    text-align:center;
+}
+
+/*
+ CHARTS
+*/
+
+#chart-home-monetization {
+    min-height:300px;
+}
+
+#chart-user-activity,#report-user-activity {
+    min-height:250px;
+}
+span.offer-name {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow:ellipsis;
+    width:500px;
+    padding-left:5px;
+    line-height:25px;
+    display:inline-block;
+}
+
+span.offer-payout {
+
+}
+
+span.offer-network-payout {
+    line-height:18px;
+    font-size:20px;
+}
+
+a.network-offer {
+    width:100px;
+    height:120px;
+    font-size:12px;
+    overflow:hidden;
+    border-radius:10px;
+    margin:5px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow:ellipsis;
+    padding:3px;
+    text-indent:0;
+    float:left;
+    text-decoration:none;
+}
+
+a.network-offer:hover {
+    border:2px #c0c0c0 solid;
+}
+
+#offer-list {
+    list-style:none;
+    max-height:500px;
+    overflow-y:scroll;
+    min-height:400px;
+}
+
+#offer-list td.offer-network-id {
+     font-size:10px;
+    vertical-align: middle;
+    text-align:center;
+}
+#offer-list td.offer-icon {
+    max-width:60px;
+    vertical-align: middle;
+}
+
+#offer-list div.offer-name {
+    font-size:12px;
+    vertical-align: middle;
+    font-weight:bold;
+    max-width:200px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow:ellipsis;
+}
+
+#offer-list td.offer-info {
+    max-width:350px;
+}
+
+#offer-list div.offer-description {
+    font-size:12px;
+    vertical-align: middle;
+    color:#999;
+    overflow: hidden;
+    text-overflow:ellipsis;
+}
+
+
+
+#offer-list td.offer-platform {
+    max-width:40px;
+    max-height:40px;
+}
+
+#offer-list td.offer-network span {
+    display:block;
+    vertical-align: middle;
+    min-height:40px;
+    min-width:65px;
+    background-repeat:no-repeat;
+    background-position:center;
+
+}
+#offer-list td.offer-network-payout {
+    font-size:12px;
+    vertical-align:middle;
+}
+span.platform-ios {
+    background-size:40px 40px;
+    width:40px;
+    height:40px;
+    display:block;
+    background-image:url(../img/icon-ios.png);
+    background-position:top left;
+    opacity:0.5;
+}
+span.platform-android {
+    background-size:40px 40px;
+    width:40px;
+    height:40px;
+    display:block;
+    background-image:url(../img/icon-android.png);
+    background-position:top left;
+    opacity:0.5;
+}
+
+a.network-offer span.icon,#offer-list span.icon {
+    background-size:50px 50px;
+    width:50px;
+    height:50px;
+    margin:0 auto;
+    background-color:#fafafa;
+    background-repeat: no-repeat;
+    background-position: top left;
+    display:block;
+}
+
+a.network-offer span.name {
+    white-space: nowrap;
+    overflow: hidden;
+    height:10px;
+    line-height:10px;
+    text-align:center;
+    font-size:10px;
+}
+
+#network-offers {
+    list-style:none;
+    max-height:400px;
+    overflow-y:scroll;
+    min-height:400px;
+}
+
+.network-offer span.network  {
+    background-repeat:no-repeat;
+    display:block;
+    margin:0 auto;
+}
+
+.content-loading {
+    width:100%;
+    height:100%;
+    background-image:url(../img/ar-loading-grey.gif);
+    background-repeat: no-repeat;
+    background-position:center;
+    display:block;
+    min-height:300px;
+    background-color:#f4f4f4;
+    opacity:.5;
+    padding:25px;
+    z-index:999;
+}
+
+a.ios {
+    border:1px #35a2ff dashed;
+}
+
+a.android {
+    border:1px #60dd4b dashed;
+}
+
+
+span.network {
+    opacity:.25;
+}
+
+span.aarki {
+    background-image:url(../img/network_aarki.png);
+    width:27px;
+    height:10px;
+    background-size:27px 10px;
+}
+
+span.hasoffers {
+    background-image:url(../img/network_hasoffers.png);
+    width:45px;
+    height:18px;
+    background-size:45px 18px;
+
+}
+
+span.ksix {
+    background-image:url(../img/network_ksix.png);
+    width:40px;
+    height:16px;
+    background-size:40px 16px;
+
+}
+
+span.adscend {
+    background-image:url(../img/network_adscend.png);
+    width:40px;
+    height:22px;
+    background-size:40px 22px;
+
+}
+
+
+span.adaction {
+    background-image:url(../img/network_adaction.png);
+    width:60px;
+    height:27px;
+    background-size:60px 27px;
+
+}
+
+
+.network-offer span.payout {
+    display:block;
+    text-align:center;
+    height:25px;
+    line-height:25px;
+    max-width:200px;
+}
+span.icon-coin {
+    background-image:url(../img/icon-coin.png);
+    background-position: top left;
+    display:inline-block;
+    width:20px;
+    height:20px;
+    background-size:20px 20px;
+    background-repeat:no-repeat;
+    position:relative;
+}
+
+#offer-list td.offer-payout {
+    width:50px;
+    font-weight:bold;
+    vertical-align: middle;
+}
+
+#offer-list div.offer-user-payout,#offer-list div.offer-referral-payout {
+    font-size:12px;
+    width:50px;
+}
+#offer-list td.offer-payout span.glyphicon {
+    color:#999;
+}
+
+#offer-list td.offer-geo {
+    width:55px;
+    padding:5px 0 5px 0;
+    vertical-align: middle;
+    text-align: center;
+}
+#offer-list td.offer-geo span.flag{
+    display:inline-block;
+    margin:1px;
+}
+
+#offer-list  span.glyphicon {
+    color:#c0c0c0;
+}
+
+#offer-list td.offer-created,#offer-list td.offer-modified,td.filter-modified,td.filter-created {
+    font-size:12px;
+    vertical-align: middle;
+    text-align: center;
+}
+
+
+
+.network-offer span.icon-coin, #offer-list span.icon-coin {
+    background-image:url(../img/icon-coin.png);
+    background-position: top left;
+    display:inline-block;
+    width:13px;
+    height:10px;
+    background-size:10px 10px;
+    background-repeat:no-repeat;
+    position:relative;
+    top:1px;
+}
+
+#offer-edit {
+    height:200px;
+    background-color:#fafafa;
+    padding:5px;
+}
+
+#offer-edit #offer-edit-countries, #offer-edit ul.tagit,#offer-add-filter ul.tagit {
+    height:30px;
+    font-size:12px;
+}
+#offer-edit ul.tagit li {
+    height:22px;
+}
+
+#content-offer-current .panel-body {
+    padding:0;
+}
+
+#offer-info {
+    height:315px;
+    background-color:#fafafa;
+    padding:10px;
+}
+
+#offer-info span.icon, #offer-edit span.icon {
+    background-size:100px 100px;
+    width:100px;
+    height:100px;
+    margin:0 auto;
+    background-color:#fafafa;
+    background-repeat: no-repeat;
+    background-position: top left;
+    display:block;
+}
+
+#offer-info span.icon-coin, #offer-edit span.icon-coin {
+    background-image:url(../img/icon-coin.png);
+    background-position: top left;
+    display:inline-block;
+    width:15px;
+    height:12px;
+    background-size:15px 12px;
+    background-repeat:no-repeat;
+    position:relative;
+    top:2px;
+    margin:0 3px 0 5px;
+}
+
+#offer-list tr.offer-disabled {
+    opacity:.75;
+    border:solid 2px #ffc3c3;
+    background-color:#f5f5f5;
+}
+
+#offer-info .description {
+    max-height:150px;
+    overflow-y:scroll;
+    font-size:12px;
+    padding:5px;
+    min-height:150px;
+}
+
+#offer-edit .description {
+    top:10px;
+    max-height:90px;
+    overflow-y:scroll;
+    font-size:12px;
+    padding:5px;
+    min-height:90px;
+}
+
+#offer-info div.controls {
+    padding:5px;
+}
+
+span.checkarea {
+    width:15px;
+    height:10px;
+    font-size:12px;
+}
+
+#offer-info div.flag-container, #offer-edit div.flag-container {
+    width:100%;
+    display:block;
+    padding:5px;
+}
+
+#offer-info div.flag-container span,#offer-edit div.flag-container span {
+    display:inline-block;
+}
+
+
+.modal-container {
+ padding:0 20px 20px 20px;
+    width:30%;
+    border-radius:15px;
+    border:3px #c0c0c0 solid;
+    margin:0 auto;
+    height:auto;
+    background:#f4f4f4;
+}
+.modal-header {
+    text-align:center;
+}
+.modal-message {
+    font-size:20px;
+    padding:10px 10px 30px 10px;
+    line-height:30px;
+
+}
+
+.modal-btn-container {
+ width:100%;
+    text-align:center;
+}
+
+.modal-normal {
+    color:#555;
+    font-weight:bold;
+    text-shadow:1px 1px #fff;
+}
+
+.modal-error {
+    color:#d10b2d;
+    font-weight:bold;
+    text-shadow:1px 1px #fff;
+}
+
+.modal-success {
+    color:#74b813;
+    font-weight:bold;
+    text-shadow:1px 1px #fff;
+}
+
+.modal-container .glyphicon {
+    margin-right:5px;
+}
+
+.modal-normal {
+
+}
+
+.modal-btn-container {
+    padding:10px;
+
+}
+
+.modal-btn {
+    margin:5px;
+}
+
+
+#offer-info span.offer-icon:hover,
+#offer-info div.offer-payout:hover,
+#offer-info span.offer-network-payout:hover,
+#offer-info pre.offer-description:hover,
+#offer-info span.offer-name:hover,
+
+#offer-edit .offer-icon:hover,
+#offer-edit .offer-payout:hover,
+#offer-edit .offer-network-payout:hover,
+#offer-edit pre.offer-description:hover,
+#offer-edit .offer-name:hover
+
+{
+    opacity:.25;
+    border:1px dashed #333;
+}
+
+.offer-edit-row{
+    transition: background-color 0.3s ease;
+    background-color: #fff;
+}
+.offer-edit-row:hover {
+    background-color: #f5f5f5;
+    border:1px solid #c0c0c0;
+}
+
+
+#offer-filter-list tr {
+    border-top:1px #fff solid;
+    background:#f4f4f4;
+}
+
+#offer-filter-list td {
+    vertical-align: middle;
+}
+
+#offer-filter-list td.content {
+    font-size:14px;
+    padding:20px;
+    color:#333;
+    line-height:40px;
+}
+
+#offer-filter-list span.condition {
+    white-space:nowrap;
+
+}
+
+#offer-filter-list span.low {
+    color:#f5abab;
+}
+
+#offer-filter-list span.high {
+    color:#bdff87;
+}
+
+
+#offer-filter-list span.glyphicon {
+    font-size:12px;
+}
+
+#offer-filter-list span.action {
+    color:#fff;
+    background-color:#757575;
+    border-radius:5px;
+    padding:10px;
+    white-space:nowrap;
+}
+
+#offer-filter-list span.target {
+    color:#333;
+    background-color:#f6d343;
+    border-radius:5px;
+    padding:10px;
+    white-space:nowrap;
+    font-weight:bold;
+}
+
+#offer-filter-list span.adnetwork {
+    color:#fff;
+    background-color:#3ca2ec;
+    border-radius:5px;
+    padding:10px;
+    white-space:nowrap;
+
+}
+
+#offer-filter-list span.text {
+    background-color:#43c859;
+    color:#fff;
+    border-radius:5px;
+    padding:10px;
+    white-space:nowrap;
+
+
+}
+
+#offer-filter-list span.country, #isp-list span.country {
+    background-color:#ddd;
+    color:#333;
+    border-radius:5px;
+    padding:10px;
+    white-space:nowrap;
+    font-weight:bold;
+}
+
+#offer-filter-list span.flag, #isp-list span.flag {
+    display:inline-block;
+}
+
+#offer-filter-list div.name {
+    font-size:20px;
+    font-weight:bold;
+    color:#555;
+}
+
+.filter-disabled {
+    opacity:.25;
+}
+
+#user-list td {
+    vertical-align:middle;
+    text-align:center;
+}
+#user-list td.offer-user-payout {
+    font-size:14px;
+}
+
+#user-list td.offer-user-payout div.user-credits {
+    font-weight:bold;
+}
+#user-list td.offer-user-payout div.user-credits-sum {
+    font-size:12px;
+    color:#c0c0c0;
+    width:100%;
+    border-top:1px dashed #ccc;
+
+}
+
+#user-list span.icon-coin{
+    width:15px;
+    height:15px;
+    background-size:15px 15px;
+    margin-right:5px;
+    top:3px;
+}
+
+#user-list td.user-image img {
+    border-radius:50px;
+}
+
+#user-list td.user-id {
+    font-size:12px;
+
+}
+
+#user-list td.user-friend-code {
+    font-size:12px;
+    font-weight:bold;
+    text-align:center;
+
+}
+
+#user-list td.user-platform span {
+    width:30px;
+    height:30px;
+    background-size:30px;
+
+}
+
+#user-list td.user-referrral-count {
+    font-size:12px;
+
+}
+
+#user-list td.user-referrral-count .glyphicon {
+    margin-right:5px;
+    color:#999;
+
+}
+
+#user-list td.user-sum {
+    min-width:75px;
+}
+
+#user-list td.user-login, #user-list td.user-register,.isp-date {
+    font-size:12px;
+}
+
+#user-list td.user-login .glyphicon, #user-list td.user-register .glyphicon,td.isp-date .gyphicon {
+    color:#c0c0c0;
+}
+
+#user-list td.user-version {
+    font-size:12px;
+}
+
+#user-list span.flag {
+    display:block;
+
+}
+
+#user-list td.user-locale, #user-list td.user-locale-register {
+
+}
+
+#user-list td.warning {
+    background-color:#ffbfbf;
+}
+
+#isp-controls {
+    padding:10px;
+    width:100%;
+}
+
+#isp-list {
+    min-height:300px;
+}
+
+td.isp-denied span
+{
+    background-color:#c9302c;
+
+}
+td.isp-accepted span {
+    background-color: #2ca02c;
+}
+
+td.isp-status span{
+    color:#fff;
+    vertical-align: middle;
+    text-align:center;
+    font-size:20px;
+    line-height:30px;
+    border-radius:30px;
+    min-height:30px;
+    min-width:30px;
+}
+
+
+td.isp-status {
+    text-indent: -9999px;
+}
+
+td.isp-denied,td.isp-accepted {
+    text-indent:0px;
+    font-size:0;
+}
+

@@ -1,0 +1,33 @@
+<!-- Sidebar block beginning -->
+<!-- IF S_DISPLAY_SEARCH and not S_IN_SEARCH -->
+    <div class="sblock">         
+        <div class="search-block-content"> <!-- Sidebar content beginning -->
+            <div class="sidebar-search-box">
+                <form action="{U_SEARCH}" method="get" id="search" >
+                    <fieldset>
+                        <div class="sidebar-inside-sb">
+                            <a class="adv-search-btn" title="{L_SEARCH_ADV}" href="{U_SEARCH}"><i class="icon-plus-circled"></i></a>
+                            <input class="inputbox search"  type="text" name="keywords" id="search_keywords" size="20" value="<!-- IF SEARCH_WORDS-->{SEARCH_WORDS}<!-- ELSE -->{L_SEARCH_MINI}<!-- ENDIF -->" onclick="if(this.value=='{LA_SEARCH_MINI}')this.value='';" onblur="if(this.value=='')this.value='{LA_SEARCH_MINI}';" />                                
+                            <input class="button2" type="submit" value="&#xf002" />
+                                {S_SEARCH_LOCAL_HIDDEN_FIELDS}
+                        </div>  
+                    </fieldset>
+                </form>
+            </div>        
+        </div> <!-- Sidebar content end -->
+    </div>
+<!-- ENDIF -->
+<!-- Sidebar block end -->
+
+<!-- Forum Menu start here -->
+  <!-- INCLUDE forum_menu.html -->
+<!-- Forum Menu ends here -->
+              
+<div class="sblock"  style="display:none !important;"><!-- Sidebar block beginning -->   
+    <div class="sheader"><!-- Sidebar header beginning -->
+        <h4 class="sh4"> Your sidebar block title</h4>               
+    </div> <!-- Sidebar header end -->         
+    <div class="scontent pb10"> <!-- Sidebar content beginning -->                             
+            <p>This is a sidebar block content example.Replace this with the content you need.</p>
+    </div><!-- Sidebar content end -->
+</div><!-- Sidebar block end -->  

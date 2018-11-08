@@ -1,0 +1,31 @@
+<!-- INCLUDE overall_header.html -->
+
+	<!-- INCLUDE forumlist_body.html -->
+
+	<!-- IF S_DISPLAY_ONLINE_LIST -->
+		<!-- IF U_VIEWONLINE -->
+		<h3 class="panel-header"><a href="{U_VIEWONLINE}"><span class="panel-icon"><i class="icon-info-circled-alt"></i></span>{L_WHO_IS_ONLINE}</a></h3>
+		<!-- ELSE -->
+		<h3 class="panel-header"><span class="panel-icon"><i class="icon-info-circled-alt"></i></span>{L_WHO_IS_ONLINE}</h3>
+		<!-- ENDIF -->
+		<div class="panel" >
+			<p>{TOTAL_USERS_ONLINE} ({L_ONLINE_EXPLAIN})<br />{RECORD_USERS}<br /> <br />{LOGGED_IN_USER_LIST}
+			<!-- IF LEGEND --><br /><em>{L_LEGEND}: {LEGEND}</em><!-- ENDIF --></p>
+		</div>	
+	<!-- ENDIF -->
+
+	<!-- IF S_DISPLAY_BIRTHDAY_LIST and BIRTHDAY_LIST -->
+		<h3 class="panel-header"><span class="panel-icon"><i class="icon-gift"></i></span>{L_BIRTHDAYS}</h3>
+		<div class="panel" >
+			<p><!-- IF BIRTHDAY_LIST -->{L_CONGRATULATIONS}: <strong>{BIRTHDAY_LIST}</strong><!-- ELSE -->{L_NO_BIRTHDAYS}<!-- ENDIF --></p>
+		</div>	
+	<!-- ENDIF -->
+
+	<!-- IF NEWEST_USER -->
+		<h3 class="panel-header"><span class="panel-icon"><i class="icon-chart-bar"></i></span>{L_STATISTICS}</h3>
+		<div class="panel" >
+			<p>{TOTAL_POSTS} &bull; {TOTAL_TOPICS} &bull; {TOTAL_USERS} &bull; {NEWEST_USER}</p>
+		</div>	
+	<!-- ENDIF -->
+
+<!-- INCLUDE overall_footer.html -->

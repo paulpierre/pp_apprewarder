@@ -1,0 +1,728 @@
+/*-----------------------------------------------------------------------------------*/
+/* GLOBAL STYLES
+/*-----------------------------------------------------------------------------------*/
+
+a.ios,a.ios:hover {
+    background-color:#21a1e2;
+    color:#fff;
+    border-bottom:3px solid #1f8dc5;
+}
+
+a.android,a.android:hover {
+    background-color:#a4c739;
+    color:#fff;
+    border-bottom:3px solid #829e2c;
+    margin-left:1px;
+}
+
+body {
+	font-family: Open Sans, sans-serif;
+}
+
+a {color:#fe724d;}
+a:hover {color:#333333;}
+a:link,a:visited,a:active {outline:0;}
+
+p {
+	font-size: 16px;
+	line-height: 25px;
+	font-weight:400;
+	color:#000;
+}
+
+.no-padding {padding:0px;}
+.space10 {margin-bottom:10px;}
+.space15 {margin-bottom:15px;}
+.space20 {margin-bottom:20px;}
+.space25 {margin-bottom:25px;}
+.space30 {margin-bottom:30px;}
+.space35 {margin-bottom:35px;}
+.space40 {margin-bottom:40px;}
+.space50 {margin-bottom:50px;}
+.space60 {margin-bottom:60px;}
+.space70 {margin-bottom:70px;}
+.space80 {margin-bottom:80px;}
+.space90 {margin-bottom:90px;}
+.video {
+	position: relative;
+	padding-bottom: 56.25%;
+	height: 0;
+	overflow: hidden;
+}
+
+.video iframe,
+.video object,  
+.video embed {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+/*-----------------------------------------------------------------------------------*/
+/* HEADER STYLES
+/*-----------------------------------------------------------------------------------*/
+
+.top-wrap {
+	position:fixed;
+	left:0px;
+	right:0px;
+	top:0px;
+	z-index:9999;
+	background:#f20028;
+	border-top:4px solid #b8001e;
+	-webkit-transition:all 0.4s ease-in-out;  
+	-moz-transition:all 0.4s ease-in-out;  
+	-o-transition:all 0.4s ease-in-out;  
+	transition:all 0.4s ease-in-out; 
+}
+
+/* Logo
+===================== */
+
+.logo {}
+
+#img-logo {
+	background:url(../img/logo.png) no-repeat ;
+	background-size:241px 77px;
+	display:block;
+	width:241px;
+	height:77px;
+	margin:10px 0 0 0;
+	
+}
+
+.logo h1 a {
+	color:#fff;
+	font-size:30px;
+	font-weight:700;
+}
+
+.logo a span {
+	font-weight:300;
+}
+
+/* Navmenu
+===================== */
+
+.top-nav {
+	display:table;
+	float:right;
+}
+
+.top-nav li {
+	float:left;
+	padding:30px 15px 10px;
+	border-top:4px solid #b8001e;
+	position:relative;
+	top:-4px;
+	-webkit-transition:all 0.4s ease-in-out;  
+	-moz-transition:all 0.4s ease-in-out;  
+	-o-transition:all 0.4s ease-in-out;  
+	transition:all 0.4s ease-in-out; 
+}
+
+.top-nav li a {color:#fff;}
+.current, .top-nav li:hover {border-top:4px solid #f3f3f3 !important;}
+
+.select-menu {
+	display: none;
+	background: none;
+	padding: none;
+	border:none;
+}
+
+@media (max-width: 767px) {
+
+.top-nav { display: none;margin:0;}
+
+.select-menu {
+	display: block;
+	background: #f20028;
+	width: 100px;
+	padding: 5px;
+	font-size: 12px;
+	border: 1px solid #fff;
+	height: 34px;
+	margin:10px 0 ;
+	position:fixed;
+	top:15px;
+	right:20px;
+	color:#fff !important;
+}
+}
+
+
+/*-----------------------------------------------------------------------------------*/
+/* SLIDER STYLES
+/*-----------------------------------------------------------------------------------*/
+
+#top {
+	padding:40px 0 55px;
+	background:#f3f3f3;
+}
+
+.top-info {}
+
+#main-slider img {
+	width:97%;
+}
+
+.top-info h3 {
+	color:#555;
+	font-weight:300;
+	font-size:45px;
+	text-shadow: 0px 1px 1px #fff;
+	margin-bottom:25px;
+	font-family: Open Sans Condensed, sans-serif;
+	text-transform:uppercase;
+	margin-top:90px;
+}
+
+.top-info h3 span{
+	font-weight:700;
+	font-size:75px;
+	display:block;
+}
+
+.top-info p {
+	color:#555;
+	font-size:18px;
+    text-shadow: 0px 1px 1px #fff;
+}
+
+.btn {
+	background:#fff;
+	padding:15px 20px;
+	color:#1abc9c;
+	display:table;
+	-moz-border-radius: 7px;
+	-webkit-border-radius: 7px;
+	border-radius: 7px;
+	font-size:16px;
+	border-bottom:3px solid #14a78a;
+	font-weight:400;
+	width:220px;
+	-webkit-transition:all 0.4s ease-in-out;  
+	-moz-transition:all 0.4s ease-in-out;  
+	-o-transition:all 0.4s ease-in-out;  
+	transition:all 0.4s ease-in-out; 
+}
+
+.btn:hover {
+	border-bottom:3px solid #1abc9c;
+	-webkit-transition:all 0.4s ease-in-out;  
+	-moz-transition:all 0.4s ease-in-out;  
+	-o-transition:all 0.4s ease-in-out;  
+	transition:all 0.4s ease-in-out; 
+}
+
+.btn span {
+	font-size:30px;
+	width:45px;
+	float:left;
+	line-height:40px;
+}
+
+.btn em {
+	display:block;
+	font-style:normal;
+	font-size:28px;
+}
+
+.xtra {
+	font-size:13px;
+	margin-top:14px;
+	color:#555;
+}
+
+.xtra a {
+	font-size:13px;
+	margin-top:14px;
+	color:#555;
+	border-bottom:1px dotted #c0c0c0;
+}
+
+/*-----------------------------------------------------------------------------------*/
+/* FEATURES/SERVICES STYLES
+/*-----------------------------------------------------------------------------------*/
+
+#features {
+	padding:100px 0 55px;
+}
+
+.features-content {margin-bottom:30px;}
+
+.features-content .ico {
+	font-size:40px;
+	width:50px;
+	height:50px;
+	float:left;
+	margin-top:5px;
+}
+
+.features-content h4 {
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 0px;
+    font-family: Open sans,sans-serif;
+    letter-spacing: -1px;
+}
+
+.features-content p {
+	color:#777;
+	font-size:16px;
+	line-height:23px;
+}
+
+.features-info {
+	margin-left:70px;
+}
+
+/*-----------------------------------------------------------------------------------*/
+/* VIDEO STYLES
+/*-----------------------------------------------------------------------------------*/
+
+#review {
+	padding:100px 0;
+	background:#555 url(../img/vid-bg.png) repeat fixed;
+}
+
+#review h3 {
+	color:#fff;
+	font-weight:300;
+	font-size:28px;
+	margin:0px 0px 50px;
+	text-align:center;
+}
+
+#review h3 i{
+	margin-right:15px;
+	position:relative;
+	top:4px;
+}
+
+.line {
+	background:#424242;
+	width:35%;
+	height:1px;
+	margin:25px 0;
+}
+
+/*-----------------------------------------------------------------------------------*/
+/* TEAM STYLES
+/*-----------------------------------------------------------------------------------*/
+
+#team {
+	padding:100px 0;
+}
+
+.team-content {}
+
+.team-content img {
+	width:215px;
+	height:239px;
+}
+
+.team-img {
+	width:215px;
+	margin:0 auto;
+}
+
+.team-img span {
+	background:url(../img/team-bg.png) no-repeat;
+	width:215px;
+	height:239px;
+	position:absolute;
+	top:0px;
+}
+
+.team-content h4 {
+	font-weight:300;
+	font-size:23px;
+	margin-bottom:0px;
+	text-align:center;
+}
+
+.team-content h5 {
+	text-transform:uppercase;
+	font-size:15px;
+	font-weight:400;
+	margin:6px 0 0;
+	text-align:center;
+	color:#666;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+#team h3 {
+	color:#000;
+	font-weight:400;
+	font-size:28px;
+	margin:0px 0px 65px;
+	text-align:center;
+}
+
+#team h3 i{
+	margin-right:15px;
+	position:relative;
+	top:-0px;
+	font-size:15px;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	border:2px solid #000;
+	padding: 10px;
+}
+
+/* Team social
+===================== */
+
+.team-social {
+	display:table;
+	margin:20px auto 0;
+}
+
+.team-social li {
+	float:left;
+	margin:0 5px;
+	font-size:13px;
+}
+
+/*-----------------------------------------------------------------------------------*/
+/* TESTIMONIAL / QUOTE STYLES
+/*-----------------------------------------------------------------------------------*/
+
+#quote {
+	padding:100px 0;
+	background:#00a8ec url(../img/quote-bg.jpg) repeat fixed;
+}
+
+#quote h3 {
+	color:#fff;
+	font-weight:400;
+	font-size:28px;
+	margin:0px 0px 50px;
+	text-align:center;
+}
+
+#quote h3 i{
+	margin-right:15px;
+	position:relative;
+	top:-0px;
+	font-size:20px;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	border:2px solid #fff;
+	padding: 10px;
+}
+
+/*-----------------------------------------------------------------------------------*/
+/* CONTACT STYLES
+/*-----------------------------------------------------------------------------------*/
+
+#contact {
+	background:#fff;
+	padding:100px 0;
+}
+
+#contact h3 {
+	color:#000;
+	font-weight:400;
+	font-size:28px;
+	margin:0px 0px 65px;
+	text-align:center;
+}
+
+#contact h3 i{
+	margin-right:15px;
+	position:relative;
+	top:-0px;
+	font-size:15px;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	border:2px solid #000;
+	padding: 10px;
+}
+
+/* Contact info
+===================== */
+
+.contact-info {margin-top:8px;}
+
+.contact-info li {
+	color:#656565;
+	font-size:15px;
+	font-weight:400;
+	margin-bottom:28px;
+}
+
+.contact-info li em {
+	background: #fff;
+	color: #aaa;
+	border:1px solid #ccc;
+	padding: 12px 15px 8px;
+	margin-right:15px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+}
+
+/* Social content
+===================== */
+
+.social-info {}
+
+.social-info li {
+float:left;
+margin-right:10px;
+width:40px;
+height:40px;
+line-height:40px;
+text-align:center;
+-moz-border-radius: 3px;
+-webkit-border-radius: 3px;
+border-radius: 3px;
+opacity:0.7;
+filter: alpha(opacity = 70);
+}
+
+.social-info li a {
+width:40px;
+height:40px;
+line-height:40px;
+text-align:center;
+-moz-border-radius: 3px;
+-webkit-border-radius: 3px;
+border-radius: 3px;
+opacity:0.7;
+padding:10px 12px 8px;
+filter: alpha(opacity = 70);
+}
+
+
+.social-info li a:hover {
+opacity:1;
+filter: alpha(opacity = 100);
+}
+
+/* Contact form
+===================== */
+
+.inner {
+	position:relative;
+}
+
+.inner i {
+	color:#999;
+	position: absolute;
+	top: 12px;
+	left: 11px;
+}
+
+#contactForm {
+	width: 100%;
+	height: auto;
+	padding: 0;
+}
+
+#contactForm.positioned {}
+
+.statusMessage, .successmessage, .errormessage {
+	display: none;
+	margin: auto;
+	width: 100%;
+	height: auto;
+	left:0px;
+	right:0px;
+	top:0px;	
+	background:#fff;
+	margin: 0 auto 25px auto;
+}
+
+.statusMessage p {
+	margin: 0;
+	padding:20px;
+	color:#000;
+}
+
+.successmessage p {
+	margin: 0;
+	padding:20px;
+	color:#000;
+}
+
+.success-ico {
+	color:#00b034;
+	font-size:25px;
+	float:left;
+	padding-right:7px;
+	margin-top:5px;
+}
+
+.error-ico {
+	color:#ff0000;
+	font-size:25px;
+	float:left;
+	padding-right:7px;
+	margin-top:5px;
+}
+
+.errormessage p {
+	margin: 0;
+	padding:20px;
+	color:#000;
+}
+
+#contactForm ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+#contactForm ul li {
+	margin: .9em 0 0 0;
+	padding: 0;
+}
+
+#contactForm *:focus {
+	border: 1px solid #1abc9c;
+	outline: none;
+	box-shadow: none;
+	-moz-box-shadow: none;
+	-webkit-box-shadow: none;
+}
+
+input:valid, textarea:valid {}
+
+input[type="submit"], input[type="button"] {
+	float: right;
+	margin: 0;
+	width: 100%;
+	padding: 9px 0;
+	color: #fff;
+	background: #16a085;
+	font-size: 14px;
+	line-height: 1em;
+	-webkit-appearance: none;
+	-moz-transition: opacity .5s;
+	-webkit-transition: opacity .5s;
+	-o-transition: opacity .5s;
+	transition: opacity .5s;
+	text-transform:uppercase;
+	border:none;
+	font-weight:400;
+	font-family:open sans,Sans-serif;
+	font-weight:600;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;	
+}
+
+input[type="submit"]:hover,
+input[type="submit"]:active,
+input[type="button"]:hover,
+input[type="button"]:active {
+	cursor: pointer;
+	background: #000;
+	color:#fff;
+	border:none;
+}
+
+input[type="submit"]:active, input[type="button"]:active {color: #333;background: #2a2a2a;}
+input[type="button"] {background: #ff0000;}
+
+/*-----------------------------------------------------------------------------------*/
+/* FOOTER STYLES
+/*-----------------------------------------------------------------------------------*/
+
+.footer {}
+
+.footer-inner {
+	border-top:1px solid #ddd;
+}
+
+.footer-inner p {
+	margin: 18px 0;
+	text-align:center;
+}
+
+.footer-inner a {color:#757575;}
+a.f-twitter  {border:1px solid #3fbcef;color:#3fbcef; padding:10px;border-radius:5px;font-size:20px;}
+a.f-fb  {border:1px solid #1d2a63;color:#1d2a63;padding:10px;border-radius:5px;font-size:20px;}
+a.f-google  {border:1px solid #dd4b39;color:#dd4b39;padding:10px;border-radius:5px;font-size:20px;}
+
+.f-dribble a {border:1px solid #ec6b76;color:#ec6b76;}
+.f-skype a {border:1px solid #00a8ec;color:#00a8ec;}
+.f-linkedin a {border:1px solid #00709e;color:#00709e;}
+.f-instagram a {border:1px solid #52443c;color:#52443c;}
+
+/* #Tablet (Portrait)
+================================================== */
+
+/* Note: Design for a width of 768px */
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+
+#top {padding:25px 0 55px;}
+.top-nav li {font-size:13px; }
+.top-info h3 {font-size:40px;margin-bottom:15px;margin-top:65px;}
+.top-info h3 span{font-size:50px;}
+.top-info p {font-size:15px;line-height:21px;}
+.features-content h4 {font-size: 18px;font-weight: 600;margin-top: 0px;font-family: Open sans,sans-serif;letter-spacing: -1px;}
+.features-content p {color:#777;font-size:14px;line-height:20px;}
+.team-content img {width:170px;height:189px;}
+.team-img {width:170px;margin:0 auto;}
+.team-img span {background:url(../img/team-bg-small.png) no-repeat;width:170px;height:189px;top:0px;}
+.contact-info li {font-size: 13px;}
+
+}
+
+/*  #Mobile (Portrait)
+================================================== */
+
+/* Note: Design for a width of 320px */
+@media only screen and (max-width: 767px) {
+
+.top-wrap {height:75px;}
+.logo-top h1 {margin:7px 0 0 0 !important;}
+#top {padding:20px 0 55px;}
+#main-slider img {width:100%;}
+.top-info h3 {font-size:30px;margin-bottom:15px;margin-top:45px;text-align:center;}
+.top-info h3 span{font-weight:700;font-size:44px;}
+.top-info p {font-size:15px;text-align:center;line-height:21px;}
+.btn {margin:0 auto;}
+.xtra {font-size:13px;margin-top:14px;color:#fff;text-align:center;}
+#review h3 i{margin-right:0px;top:-15px;width:100%;text-align:center;display:block;font-size:60px;}
+#team h3 i, #quote h3 i, #contact h3 i{position: relative;top: 0px;-moz-border-radius: 50%;-webkit-border-radius: 50%;border-radius: 50%;border: 3px solid #000;padding: 15px;text-align: center;display: block;font-size: 21px;width: 60px;height: 60px;margin: 0px auto 10px;}
+#quote h3 i{border:3px solid #fff;}
+.team-content {margin-bottom:30px;}
+#team {padding:100px 0 70px;}
+.flexslider li p {font-size:16px !important;}
+.contact-info {margin-top:40px;}
+
+}
+
+/* #Mobile (Landscape)
+================================================== */
+
+/* Note: Design for a width of 480px */
+@media only screen and (max-width: 479px) {
+
+.contact-info li {font-size: 15px;font-weight: 400;margin-bottom: 16px;height: 47px;}
+.contact-info li em {width:19%;float:left;}
+.social-info li {margin-right: 3px;}
+
+}
+
+/* #Mobile (Landscape)
+================================================== */
+
+/* Note: Design for a width of 480px */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+.top-info h3 {font-size:45px;}
+.top-info h3 span{font-size:56px;}
+
+}

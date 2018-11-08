@@ -1,0 +1,33 @@
+<!-- INCLUDE overall_header.html -->
+
+<div id="right-content">
+<form action="{S_PROFILE_ACTION}" method="post" id="remind">
+	
+<h2 class="panel-header"><span class="panel-icon"><i class="icon-help-circled-alt"></i></span>{L_SEND_PASSWORD}</h2>
+<div class="panel">
+	<div class="content">		
+
+		<fieldset>
+		<dl>
+			<dt><label for="username">{L_USERNAME}:</label></dt>
+			<dd><input class="inputbox medium" type="text" name="username" id="username" size="25" /></dd>
+		</dl>
+		<dl>
+			<dt><label for="email">{L_EMAIL_ADDRESS}:</label><br /><span>{L_EMAIL_REMIND}</span></dt>
+			<dd><input class="inputbox medium" type="text" name="email" id="email" size="25" maxlength="100" /></dd>
+		</dl>
+		<dl>
+			<dt>&nbsp;</dt>
+			<dd>{S_HIDDEN_FIELDS}<input type="submit" name="submit" id="submit" class="button1" value="{L_SUBMIT}" tabindex="2" />&nbsp; <input type="reset" value="{L_RESET}" name="reset" class="button2" /></dd>
+		</dl>
+		{S_FORM_TOKEN}
+		</fieldset>
+	</div>
+	
+</div>
+</form>
+</div><!-- right-content end -->	
+<div id="sidebar">
+		<!-- INCLUDE sidebar.html -->
+</div>	
+<!-- INCLUDE overall_footer.html -->

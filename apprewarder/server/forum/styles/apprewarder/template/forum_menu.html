@@ -1,0 +1,75 @@
+
+        <div id="forum-menu" class="sblock navbar"><!-- forum menu block beginning -->
+
+            <div class="sheader"><!-- forum menu header beginning -->
+                    <h4 class="sh4">Forum Menu</h4> 
+
+                        <!-- The button for collapse menu  -->   
+                            <a  title="Click to Open/Close" class="btn-navbar" data-toggle="collapse" data-target="#collapse-menu">
+                             <i class="icon-down-hand"></i>               
+                            </a>
+                        <!-- The button for collapse menu end -->                   
+
+                </div><!-- forum menu header end -->
+           <div id="collapse-menu" class="nav-collapse collapse in"><!-- Collapse div start -->    
+            <div class="scontent list"><!--forum menu content beginning -->           
+
+                 
+                <!-- IF not S_USER_LOGGED_IN and not S_IS_BOT --> 
+                <ul>
+                     <li><a href="{U_SEARCH_ACTIVE_TOPICS}"><i class="icon-fire"></i> {L_SEARCH_ACTIVE_TOPICS}</a></li>
+
+                     <li><a href="{U_SEARCH_UNANSWERED}"><i class="icon-doc-inv"></i> {L_SEARCH_UNANSWERED}</a></li>
+
+                     <li><a href="{U_DELETE_COOKIES}"><i class="icon-cancel"></i> {L_DELETE_COOKIES}</a></li>
+                </ul>     
+                     <!-- ENDIF -->  
+
+            <!-- IF not S_IS_BOT and S_USER_LOGGED_IN -->
+                <ul>
+                      
+                <!-- IF S_DISPLAY_SEARCH -->                    
+                     <li><a href="{U_SEARCH_SELF}"><i class="icon-doc-text"></i> {L_SEARCH_SELF}</a></li> 
+
+                     <li><a href="{U_SEARCH_NEW}"><i class="icon-doc"></i> {L_SEARCH_NEW}</a></li> 
+
+                     <!-- IF S_LOAD_UNREADS -->
+                     <li><a href="{U_SEARCH_UNREAD}"><i class="icon-doc-inv"></i> {L_SEARCH_UNREAD}</a></li><!-- ENDIF -->  
+                    
+                     <li><a href="{U_SEARCH_UNANSWERED}"><i class="icon-doc-text-inv"></i> {L_SEARCH_UNANSWERED}</a></li>
+
+                     <li><a href="{U_SEARCH_ACTIVE_TOPICS}"><i class="icon-fire"></i> {L_SEARCH_ACTIVE_TOPICS}</a></li>    
+
+                     <!-- IF not S_IS_BOT and U_MARK_FORUMS -->
+                     <li><a href="{U_MARK_FORUMS}" accesskey="m"><i class="icon-ok-circled2"></i> {L_MARK_FORUMS_READ}</a></li><!-- ENDIF -->
+
+                     <!-- IF U_MARK_TOPICS and .topicrow -->
+                    <li><a href="{U_MARK_TOPICS}"><i class="icon-ok-circled2"></i> {L_MARK_TOPICS_READ}</a></li><!-- ENDIF -->  
+
+                     <!-- IF S_WATCH_FORUM_LINK and not S_IS_BOT -->
+                     <li><a href="{S_WATCH_FORUM_LINK}"><i class="icon-eye"></i> {S_WATCH_FORUM_TITLE}</a></li><!-- ENDIF -->
+                    
+                    <!-- IF U_WATCH_TOPIC -->
+                    <li><a href="{U_WATCH_TOPIC}" title="{L_WATCH_TOPIC}"><i class="icon-eye"></i> {L_WATCH_TOPIC}</a></li><!-- ENDIF -->
+
+                    <!-- IF U_BOOKMARK_TOPIC -->
+                    <li><a href="{U_BOOKMARK_TOPIC}" title="{L_BOOKMARK_TOPIC}"><i class="icon-bookmark"></i> {L_BOOKMARK_TOPIC}</a></li><!-- ENDIF -->                    
+
+                    <!-- IF U_BUMP_TOPIC -->
+                    <li><a href="{U_BUMP_TOPIC}" title="{L_BUMP_TOPIC}"><i class="icon-angle-up"></i> {L_BUMP_TOPIC}</a></li><!-- ENDIF -->                     
+                                      
+                    <li><a href="{U_DELETE_COOKIES}"><i class="icon-cancel"></i> {L_DELETE_COOKIES}</a></li>
+                    
+                    <!-- IF U_PRINT_TOPIC -->
+                    <li><a href="{U_PRINT_TOPIC}" title="{L_PRINT_TOPIC}"><i class="icon-print"></i> {L_PRINT_TOPIC}</a></li><!-- ENDIF -->
+
+                    <!-- IF U_EMAIL_TOPIC -->
+                    <li><a href="{U_EMAIL_TOPIC}" title="{L_EMAIL_TOPIC}" accesskey="p"><i class="icon-mail-1"></i> {L_EMAIL_TOPIC}</a></li><!-- ENDIF -->                    
+              
+                <!-- ENDIF -->
+                </ul>   
+            <!-- ENDIF -->                  
+                               
+            </div><!--forum menu content beginning end-->
+            </div><!-- collapse div end -->    
+        </div><!-- forum menu block end -->         

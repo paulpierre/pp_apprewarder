@@ -1,0 +1,17 @@
+<!-- INCLUDE overall_header.html -->
+
+<form id="confirm" action="{S_CONFIRM_ACTION}" method="post">
+<h2 class="panel-header"><span class="panel-icon"><i class="icon-ok-circled2"></i></span>{MESSAGE_TITLE}</h2>
+<div class="panel">	
+	
+	<p>{MESSAGE_TEXT}</p>
+	
+	<fieldset class="submit-buttons">
+		{S_HIDDEN_FIELDS}
+		<input type="submit" name="confirm" value="{L_YES}" class="button2" />&nbsp; 
+		<input type="submit" name="cancel" value="{L_NO}" class="button2" />
+	</fieldset>	
+</div>
+</form>
+
+<!-- INCLUDE overall_footer.html -->

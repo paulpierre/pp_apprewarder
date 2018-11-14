@@ -2,7 +2,6 @@
 - - -
 
 ### Incentivized Install Application and Platform for iOS and Android 
-- - -
 
 
 ![App Rewarder](http://paulpierre.com/img/apprewarder.jpg)
